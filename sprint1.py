@@ -6,7 +6,7 @@ headers = {
     'Authorization': 'bearer 08a7e4d6ae0ddc541b76206a37549dad5f20a80a',
 }
 
-data = '{"query": "{ search(query:\\"stars:>100\\", type:REPOSITORY, first:100){ nodes { ... on Repository {nameWithOwner url createdAt updatedAt pullRequests{ totalCount } releases{ totalCount } primaryLanguage{ name } all_issues: issues{ totalCount } closed_issues: issues(states:CLOSED){ totalCount } } } } }"}'
+data = '{"query": "{ search(query:\\"stars:>100\\", type:REPOSITORY, first:100){ nodes { ... on Repository {nameWithOwner url createdAt updatedAt pullRequests{ totalCount } releases{ totalCount } primaryLanguage{ name } todasIssues: issues{ totalCount } issuesFechadas: issues(states:CLOSED){ totalCount } } } } }"}'
 
 response = requests.post(
 	'https://api.github.com/graphql', headers=headers, data=data)
