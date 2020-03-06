@@ -22,22 +22,22 @@ headers = {
 
 data = """
 {
-    search(query:"stars:>100", type:REPOSITORY, first:5) {
+    search(query:"stars:>100", type:REPOSITORY, first:100){
         pageInfo {
             hasNextPage
             endCursor
         }
         nodes {
-            ... on Repository {
+        ... on Repository {
                 nameWithOwner
                 url
-                createdAt
-                updatedAt
-                pullRequests{ totalCount }
-                releases{ totalCount }
-                primaryLanguage{ name }
-                todasIssues: issues{ totalCount }
-                issuesFechadas: issues(states:CLOSED){ totalCount }
+                createdAt 
+                updatedAt 
+                pullRequests{ totalCount } 
+                releases{ totalCount } 
+                primaryLanguage{ name } 
+                todasIssues: issues{ totalCount } 
+                issuesFechadas: issues(states:CLOSED){ totalCount } 
             } 
         } 
     }
