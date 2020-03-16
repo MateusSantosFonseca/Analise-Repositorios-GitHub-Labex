@@ -5,6 +5,7 @@ import os
 import os.path
 import shutil
 
+pathRelativa = os.getcwd()
 
 def executar_query_github(query):
     request = requests.post('https://api.github.com/graphql', json = {'query': query}, headers = headers)
@@ -21,8 +22,10 @@ def formatar_datas(response):
     for i, repositorio in enumerate(nodes):
         nodes[i]['createdAt'] = nodes[i]['createdAt'].split("T")[0]
         
-def exportar_para_csv(data):
+# Funcao responsavel por exportar o arquivo .csv final e por delegar a exportacao do arquivo .txt com as urls de clone dos repositorios
+def exportar_arquivos(data):
     pathRelativa = os.getcwd() + "\output_repositorios_github.csv"
+    listaURLS = ""
     with open(pathRelativa, 'w+') as csv_final:
         csvWriter = writer(csv_final)
         header = (["Nome", "Linguagem primária", "Quantidade de stars", "Watchers", "Data de criação", "Quantidade de forks", "URL"])
@@ -32,10 +35,14 @@ def exportar_para_csv(data):
             repo = reposDictToString(repo)
             if repo['primaryLanguage'] == " Python":
                 csvWriter.writerow(repo.values())
+                listaURLS += repo['url'].strip() + "\n"
+    exportarURLSparaTXT(listaURLS)
 
-# Alguns valores do repositorio vem no formato dict, isto atrapalha a formatacao do .csv, para não atrapalhar, 
-# esta funcao converte os dicts da query em string. Além disso, aproveitando a funcao, acrescenta um espaco após cada virgula.
-# Esta funcao necessita de refatoração
+def exportarURLSparaTXT(listaURLS):
+    pathRelativa = os.getcwd() + "\lista_urls_repos.txt"
+    file = open(pathRelativa, "w+")  
+    file.write(listaURLS)
+    file.close
 
 def reposDictToString(repo):
 
@@ -111,4 +118,4 @@ response = executar_query_github(query)
 
 formatar_datas(response) 
 
-exportar_para_csv(response)
+exportar_arquivos(response)
