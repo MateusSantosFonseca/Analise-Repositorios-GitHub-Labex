@@ -1,6 +1,9 @@
 import requests
 import json
 from csv import writer
+import os
+import os.path
+import shutil
 
 def executar_query_github(query):
     request = requests.post('https://api.github.com/graphql', json = {'query': query}, headers = headers)
@@ -19,7 +22,8 @@ def formatar_datas(response):
         nodes[i]['updatedAt'] = nodes[i]['updatedAt'].split("T")[0]
         
 def exportar_para_csv(data):
-    with open("output_repositorios_github.csv", 'w+') as csv_final:
+    pathRelativa = os.getcwd() + "\output_repositorios_github.csv"
+    with open(pathRelativa, 'w+') as csv_final:
         csvWriter = writer(csv_final)
         header = (["Nome", "URL", "Criado em", "Atualizado em", "Quantidade de stars", "Pull Requests aceitas", "Pull Requests totais", "Releases", "Linguagem primária", "Todas Issues", "Issues fechadas"])
         csvWriter.writerow(header)

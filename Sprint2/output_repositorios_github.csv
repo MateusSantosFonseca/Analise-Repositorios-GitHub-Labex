@@ -1,0 +1,26 @@
+Nome,Linguagem primária,Quantidade de stars,Watchers,Data de criação,Quantidade de forks,URL
+mypy, Python, 8072, 176, 2012-12-07, 1187, https://github.com/python/mypy
+500lines, Python, 208, 13, 2014-02-25, 35, https://github.com/gvanrossum/500lines
+ballot-box, Python, 8, 2, 2015-03-13, 4, https://github.com/gvanrossum/ballot-box
+asyncio, Python, 9, 1, 2015-09-25, 2, https://github.com/gvanrossum/asyncio
+cpython, Python, 3, 1, 2015-11-05, 0, https://github.com/fake-python/cpython
+pyxl3, Python, 107, 12, 2016-01-15, 13, https://github.com/gvanrossum/pyxl3
+make-stub-files, Python, 20, 3, 2016-01-26, 3, https://github.com/edreamleo/make-stub-files
+peps, Python, 0, 5, 2016-07-14, 0, https://github.com/ilevkivskyi/peps
+peps, Python, 5, 2, 2016-08-09, 3, https://github.com/phouse512/peps
+com2ann, Python, 50, 6, 2016-09-09, 1, https://github.com/ilevkivskyi/com2ann
+pytype, Python, 4, 1, 2017-02-10, 1, https://github.com/gvanrossum/pytype
+arq, Python, 3, 1, 2017-02-17, 1, https://github.com/gvanrossum/arq
+cpython, Python, 0, 2, 2017-02-20, 1, https://github.com/emilyemorehouse/cpython
+TatSu, Python, 146, 13, 2017-05-02, 33, https://github.com/neogeny/TatSu
+mypy, Python, 15, 4, 2017-06-06, 5, https://github.com/gvanrossum/mypy
+mypy-dummy, Python, 6, 2, 2017-08-31, 0, https://github.com/gvanrossum/mypy-dummy
+pep550, Python, 7, 3, 2017-09-05, 1, https://github.com/gvanrossum/pep550
+welcome-wagon-2018, Python, 2, 1, 2018-01-24, 0, https://github.com/gvanrossum/welcome-wagon-2018
+cpython, Python, 59, 6, 2018-07-17, 3, https://github.com/gvanrossum/cpython
+python-memcached, Python, 5, 1, 2018-12-24, 0, https://github.com/gvanrossum/python-memcached
+mypy_extensions, Python, 68, 13, 2019-01-14, 10, https://github.com/python/mypy_extensions
+stone, Python, 3, 1, 2019-03-08, 1, https://github.com/gvanrossum/stone
+pygl, Python, 3, 2, 2019-04-27, 0, https://github.com/neogeny/pygl
+pegen, Python, 145, 17, 2019-05-07, 19, https://github.com/gvanrossum/pegen
+guidos_time_machine, Python, 50, 11, 2020-03-05, 2, https://github.com/gvanrossum/guidos_time_machine
