@@ -5,7 +5,6 @@ import os
 import os.path
 import shutil
 
-pathRelativa = os.getcwd()
 
 def executar_query_github(query):
     request = requests.post('https://api.github.com/graphql', json = {'query': query}, headers = headers)
@@ -35,7 +34,7 @@ def exportar_arquivos(data):
             repo = reposDictToString(repo)
             if repo['primaryLanguage'] == " Python":
                 csvWriter.writerow(repo.values())
-                listaURLS += repo['url'].strip() + "\n"
+                listaURLS += repo['url'].strip() + "," + repo['name'] + "\n"
     exportarURLSparaTXT(listaURLS)
 
 def exportarURLSparaTXT(listaURLS):
@@ -112,7 +111,6 @@ query = """
 # collaborators {
 #         totalCount
 #       }
-
 
 response = executar_query_github(query)
 
