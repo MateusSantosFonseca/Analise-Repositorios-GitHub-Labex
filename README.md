@@ -65,6 +65,6 @@ De acordo com o resultado da mineração de **1.000 repositórios** com **maior*
 ### Observações adicionais:
 
 
-#### Todos arquivos deste repositório foram utilizados nas entregas do trabalho;
+- Todos arquivos deste repositório foram utilizados nas entregas do trabalho;
 
-#### Os commits que determinam o final de uma entrega é tageado no módelo Lab0XS0Y, onde X é a Sprint e Y é a entrega parcial desta Sprint.
+- Os commits que determinam o final de uma entrega é tageado no módelo Lab0XS0Y, onde X é a Sprint e Y é a entrega parcial desta Sprint.
