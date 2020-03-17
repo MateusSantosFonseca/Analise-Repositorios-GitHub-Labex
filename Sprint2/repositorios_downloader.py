@@ -23,7 +23,7 @@ try:
     os.mkdir(repos_path)
     print("Diretorio ", repos_path, " criado ")
 except FileExistsError:
-    print("Diretorio ", repos_path, " já existe")
+    print("Diretorio:", repos_path, "já existe")
 
 try:
     with open(pathRelativa) as file:
@@ -31,14 +31,20 @@ try:
 except:
     print("Ocorreu um problema na execução do script, o arquivo não pode ser lido")
 
-# Variável utilizada pra saber a ordem que os repositorios foram baixados
 countRepositorionsBaixados = 0
 
+# Baixa os repositórios seguindo a ordem do arquivo texto lista_urls_repos.
+# Cria um index no sufixo de cada diretorio de repositorio para fins de ordenacao
 for url_repo in urls_nomes_list:
     countRepositorionsBaixados += 1
     array_url_nome = url_repo.split(',')
     nome_repositorio = array_url_nome[1].strip()
-    path_repo_baixado = path + "\\" + str(countRepositorionsBaixados) + "_" + nome_repositorio
-    os.mkdir(path_repo_baixado)
-    print("Voce está baixando o repositorio: " + nome_repositorio)
-    repo = clone_repository(array_url_nome[0].strip(), path_repo_baixado, bare=False)
+    path_repo_baixado = path + "\\" + "{:04n}".format(countRepositorionsBaixados) + "_" + nome_repositorio
+    if not os.path.exists(path_repo_baixado):
+        os.mkdir(path_repo_baixado)
+        print("Voce está baixando o repositorio: " + nome_repositorio)
+        repo = clone_repository(array_url_nome[0].strip(), path_repo_baixado, bare=False)
+    else:
+        print("O repositório: " + nome_repositorio + " ja foi baixado!!")
+
+print("\nTodos repositórios foram baixados com sucesso!")
