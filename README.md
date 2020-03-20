@@ -53,7 +53,7 @@ Ao final, na documentação, devem ser respondidas as seguintes questões (com d
 
 **4.** Qual a influência da quantidade de estrelas na qualidade de um repositório?
 
-**Métricas que serão utilizadas:**
+#### Métricas que serão utilizadas:
 
 **Popularidade:** Quantidade total de estrelas, watchers e forks.
 
@@ -65,6 +65,7 @@ Ao final, na documentação, devem ser respondidas as seguintes questões (com d
 
 
 #### Ordem execução dos scripts da Sprint 2:
+
 
 **1º sprint2.py:** Ele é responsável por fazer a requisição com a query GraphQL para a API do github, ele também gera um arquivo texto que mapeia os repositórios e nomes que serão baixados. Finalmente ele gera um arquivo .CSV com todas métricas necessárias, exceto LOC (Lines of Code).
 
