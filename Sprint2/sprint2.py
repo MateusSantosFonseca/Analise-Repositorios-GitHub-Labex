@@ -80,11 +80,10 @@ headers = {
     'Authorization': 'bearer SEU_TOKEN_AQUI'
 }
 
-# Conferir se em repositories deve possuir isFork = false
 query = """
 {
   user(login: "gvanrossum") {
-    repositories(first: 50) {
+    repositories(first: 50,isFork:false) {
       nodes {
         name
         primaryLanguage {
@@ -106,11 +105,6 @@ query = """
   }
 }
 """
-
-# Necessita de push access
-# collaborators {
-#         totalCount
-#       }
 
 response = executar_query_github(query)
 
