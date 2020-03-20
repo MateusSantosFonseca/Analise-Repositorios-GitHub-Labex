@@ -43,25 +43,38 @@ De acordo com o resultado da mineração de **1.000 repositórios** com **maior*
 
 ### Sprint 2:
 
-*Metodologia à ser descrita*
+Ao final, na documentação, devem ser respondidas as seguintes questões (com dados que as comprovem):
 
 **1.** Quais as características dos repositórios do Guido?
-
-      Métrica a ser definida.
-   
     
 **2.** Quais as características dos mil repositórios mais populares?
 
-      Métrica a ser definida.
-   
 **3.** Repositórios populares são de boa qualidade? 
-
-      Métrica a ser definida.
 
 **4.** Qual a influência da quantidade de estrelas na qualidade de um repositório?
 
-      Métrica a ser definida.
-      
+**Métricas que serão utilizadas:**
+
+**Popularidade:** Quantidade total de estrelas, watchers e forks.
+
+**Tamanho:** LOC (Lines of Code)
+
+**Atividade:** Quantidade total de releases, Quantidade de dias do repositório (deste a data de sua criação)/quantidade total de releases
+
+**Maturidade:** Idade (em anos, em relação à data de sua criação).
+
+
+#### Ordem execução dos scripts da Sprint 2:
+
+**1º sprint2.py:** Ele é responsável por fazer a requisição com a query GraphQL para a API do github, ele também gera um arquivo texto que mapeia os repositórios e nomes que serão baixados. Finalmente ele gera um arquivo .CSV com todas métricas necessárias, exceto LOC (Lines of Code).
+
+**2° repositorios_downloader.py:** Ele é responsável por fazer o download dos repositórios presentes no arquivo txt gerado na primeira etapa.
+
+**3° exportador_csv_loc.py:** Ele é responsável por analisar a quantidade de linhas de código de cada repositório existente e criar um novo arquivo .csv com a nova coluna de LOC de cada repositório. Este arquivo deleta o arquivo .csv obsoleto anterior.
+
+**Melhorias a serem feitas (20/03/2020):** Visando sprints posteriores nos quais uma grande quantidade de repositórios serão analisados, juntar os scripts repositorios_downloader.py e exportador_csv_loc.py em um único script, para que seja possível à cada repositório baixado, salvar seu LOC em algum arquivo texto e apagar logo em seguida o repositório, almejando economizar armazenamento.
+
+
 ### Observações adicionais:
 
 
