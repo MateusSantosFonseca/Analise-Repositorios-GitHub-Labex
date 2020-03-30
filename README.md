@@ -80,7 +80,10 @@ Executar o script main.py, que é responsável por delegar a chamada correta dos
 
 ### Observações adicionais:
 
+**MUITO IMPORTANTE:**
 
+- No Windows, arquivos que são read-only (o arquivo .git, por exemplo) não podem ser apagados através de scripts python. Tendo isto em vista, a exclusão dos diretórios dos repositórios dentro dos scripts se dão basicamente na exclusão de arquivos não read-only, diminuindo seu tamanho porém não deletando completamente. Tendo isto em vista, na execução deste código para mais de 100 repositórios (normalmente o tamanho de 100 repos são mais de 10GB), é fortemente recomendado que haja uma adaptação no próprio código para, de forma intermitente, buscar estes repositórios após a exclusão manual dos repositórios antigos, ou seja, para cada 100 repositórios baixados, haja um break, delete manualmente os repositórios calculados e, somente então, retorne a baixar mais 100, e assim sucessivamente. Tendo em vista os apontamentos realizados, para a Fase 2 deste trabalho, houve uma alteração do disco e, consequentemente na path utilizada no código, no script downloader_e_contador_locs_repositorios.py, e o disco alternativo utilizado havia mais de 1,5TB de armazenamento disponível. Mesmo assim, foi-se baixado 500 repositórios e, somente após a exclusão dos repositórios antigos, foram baixados mais 500 repositórios.
+ 
 - Todos arquivos deste repositório foram utilizados nas entregas do trabalho;
 
 - Os commits que determinam o final de uma entrega é tageado no módelo Lab0XS0Y, onde X é a Sprint e Y é a entrega parcial desta Sprint.
