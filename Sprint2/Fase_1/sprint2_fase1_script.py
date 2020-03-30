@@ -4,14 +4,16 @@ from csv import writer
 import os
 import os.path
 import shutil
+import sys
 
+fase = r"\Fase_1"
 
-def executar_query_github(query):
+def executar_query_github(query, headers):
     request = requests.post('https://api.github.com/graphql', json = {'query': query}, headers = headers)
     if request.status_code == 200:
         return request.json()
     elif request.status_code == 502:
-        return executar_query_github(query)
+        return executar_query_github(query, headers)
     else:
         raise Exception("A query falhou: {}. {}".format(request.status_code, query))
 
@@ -23,7 +25,7 @@ def formatar_datas(response):
         
 # Funcao responsavel por exportar o arquivo .csv final e por delegar a exportacao do arquivo .txt com as urls de clone dos repositorios
 def exportar_arquivos(data):
-    pathRelativa = os.getcwd() + "\output_repositorios_github.csv"
+    pathRelativa = os.getcwd() + fase + r"\output_repositorios_github.csv"
     listaURLS = ""
     with open(pathRelativa, 'w+') as csv_final:
         csvWriter = writer(csv_final)
@@ -38,7 +40,7 @@ def exportar_arquivos(data):
     exportarURLSparaTXT(listaURLS)
 
 def exportarURLSparaTXT(listaURLS):
-    pathRelativa = os.getcwd() + "\lista_urls_repos.txt"
+    pathRelativa = os.getcwd() + fase + r"\lista_urls_repos.txt"
     file = open(pathRelativa, "w+")  
     file.write(listaURLS)
     file.close
@@ -75,39 +77,40 @@ def reposDictToString(repo):
     return repo
 
 
-headers = {
-    'Content-Type': 'application/json',
-    'Authorization': 'bearer SEU_TOKEN_AQUI'
-}
-
-query = """
-{
-  user(login: "gvanrossum") {
-    repositories(first: 50,isFork:false) {
-      nodes {
-        name
-        primaryLanguage {
-          name
-        }
-        stargazers {
-          totalCount
-        }
-        watchers {
-          totalCount
-        }
-        createdAt
-        forks {
-          totalCount
-        }
-        url
-      }
+def sprint2_fase1():
+    headers = {
+        'Content-Type': 'application/json',
+        'Authorization': 'bearer SEU_TOKEN'
     }
-  }
-}
-"""
 
-response = executar_query_github(query)
+    query = """
+    {
+    user(login: "gvanrossum") {
+        repositories(first: 50,isFork:false) {
+        nodes {
+            name
+            primaryLanguage {
+            name
+            }
+            stargazers {
+            totalCount
+            }
+            watchers {
+            totalCount
+            }
+            createdAt
+            forks {
+            totalCount
+            }
+            url
+        }
+        }
+    }
+    }
+    """
 
-formatar_datas(response) 
+    response = executar_query_github(query, headers)
 
-exportar_arquivos(response)
+    formatar_datas(response) 
+
+    exportar_arquivos(response)
