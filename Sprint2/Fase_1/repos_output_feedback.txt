@@ -1,0 +1,26 @@
+Feedback:
+
+O repositório: mypy foi baixado (ou já estava baixado), ele é o repositorio de número: 1. Hora do término do download: 2020-03-31 05:58:35
+
+O repositório: ballot-box foi baixado (ou já estava baixado), ele é o repositorio de número: 2. Hora do término do download: 2020-03-31 05:58:39
+
+O repositório: cpython foi baixado (ou já estava baixado), ele é o repositorio de número: 3. Hora do término do download: 2020-03-31 05:59:12
+
+O repositório: make-stub-files foi baixado (ou já estava baixado), ele é o repositorio de número: 4. Hora do término do download: 2020-03-31 05:59:17
+
+O repositório: com2ann foi baixado (ou já estava baixado), ele é o repositorio de número: 5. Hora do término do download: 2020-03-31 05:59:18
+
+O repositório: TatSu foi baixado (ou já estava baixado), ele é o repositorio de número: 6. Hora do término do download: 2020-03-31 05:59:20
+
+O repositório: mypy-dummy foi baixado (ou já estava baixado), ele é o repositorio de número: 7. Hora do término do download: 2020-03-31 05:59:22
+
+O repositório: pep550 foi baixado (ou já estava baixado), ele é o repositorio de número: 8. Hora do término do download: 2020-03-31 05:59:24
+
+O repositório: mypy_extensions foi baixado (ou já estava baixado), ele é o repositorio de número: 9. Hora do término do download: 2020-03-31 05:59:26
+
+O repositório: pygl foi baixado (ou já estava baixado), ele é o repositorio de número: 10. Hora do término do download: 2020-03-31 05:59:27
+
+O repositório: pegen foi baixado (ou já estava baixado), ele é o repositorio de número: 11. Hora do término do download: 2020-03-31 05:59:32
+
+O repositório: guidos_time_machine foi baixado (ou já estava baixado), ele é o repositorio de número: 12. Hora do término do download: 2020-03-31 05:59:34
+

@@ -1,0 +1,2001 @@
+Feedback:
+
+O repositório: system-design-primer foi baixado (ou já estava baixado), ele é o repositorio de número: 1. Hora do término do download: 2020-03-31 02:58:16
+
+O repositório: awesome-python foi baixado (ou já estava baixado), ele é o repositorio de número: 2. Hora do término do download: 2020-03-31 02:58:19
+
+O repositório: public-apis foi baixado (ou já estava baixado), ele é o repositorio de número: 3. Hora do término do download: 2020-03-31 02:58:21
+
+O repositório: Python foi baixado (ou já estava baixado), ele é o repositorio de número: 4. Hora do término do download: 2020-03-31 02:58:24
+
+O repositório: youtube-dl foi baixado (ou já estava baixado), ele é o repositorio de número: 5. Hora do término do download: 2020-03-31 02:58:37
+
+O repositório: models foi baixado (ou já estava baixado), ele é o repositorio de número: 6. Hora do término do download: 2020-03-31 02:59:18
+
+O repositório: thefuck foi baixado (ou já estava baixado), ele é o repositorio de número: 7. Hora do término do download: 2020-03-31 02:59:30
+
+O repositório: flask foi baixado (ou já estava baixado), ele é o repositorio de número: 8. Hora do término do download: 2020-03-31 02:59:35
+
+O repositório: django foi baixado (ou já estava baixado), ele é o repositorio de número: 9. Hora do término do download: 2020-03-31 03:00:02
+
+O repositório: keras foi baixado (ou já estava baixado), ele é o repositorio de número: 10. Hora do término do download: 2020-03-31 03:00:17
+
+O repositório: httpie foi baixado (ou já estava baixado), ele é o repositorio de número: 11. Hora do término do download: 2020-03-31 03:00:20
+
+O repositório: awesome-machine-learning foi baixado (ou já estava baixado), ele é o repositorio de número: 12. Hora do término do download: 2020-03-31 03:00:23
+
+O repositório: ansible foi baixado (ou já estava baixado), ele é o repositorio de número: 13. Hora do término do download: 2020-03-31 03:00:49
+
+O repositório: requests foi baixado (ou já estava baixado), ele é o repositorio de número: 14. Hora do término do download: 2020-03-31 03:01:01
+
+O repositório: scikit-learn foi baixado (ou já estava baixado), ele é o repositorio de número: 15. Hora do término do download: 2020-03-31 03:01:19
+
+O repositório: scrapy foi baixado (ou já estava baixado), ele é o repositorio de número: 16. Hora do término do download: 2020-03-31 03:01:28
+
+O repositório: big-list-of-naughty-strings foi baixado (ou já estava baixado), ele é o repositorio de número: 17. Hora do término do download: 2020-03-31 03:01:32
+
+O repositório: face_recognition foi baixado (ou já estava baixado), ele é o repositorio de número: 18. Hora do término do download: 2020-03-31 03:01:42
+
+O repositório: shadowsocks foi baixado (ou já estava baixado), ele é o repositorio de número: 19. Hora do término do download: 2020-03-31 03:01:44
+
+O repositório: core foi baixado (ou já estava baixado), ele é o repositorio de número: 20. Hora do término do download: 2020-03-31 03:02:05
+
+O repositório: you-get foi baixado (ou já estava baixado), ele é o repositorio de número: 21. Hora do término do download: 2020-03-31 03:02:33
+
+O repositório: cpython foi baixado (ou já estava baixado), ele é o repositorio de número: 22. Hora do término do download: 2020-03-31 03:03:26
+
+O repositório: XX-Net foi baixado (ou já estava baixado), ele é o repositorio de número: 23. Hora do término do download: 2020-03-31 03:03:34
+
+O repositório: faceswap foi baixado (ou já estava baixado), ele é o repositorio de número: 24. Hora do término do download: 2020-03-31 03:03:52
+
+O repositório: HelloGitHub foi baixado (ou já estava baixado), ele é o repositorio de número: 25. Hora do término do download: 2020-03-31 03:03:55
+
+O repositório: 12306 foi baixado (ou já estava baixado), ele é o repositorio de número: 26. Hora do término do download: 2020-03-31 03:04:02
+
+O repositório: incubator-superset foi baixado (ou já estava baixado), ele é o repositorio de número: 27. Hora do término do download: 2020-03-31 03:04:16
+
+O repositório: 100-Days-Of-ML-Code foi baixado (ou já estava baixado), ele é o repositorio de número: 28. Hora do término do download: 2020-03-31 03:04:21
+
+O repositório: CppCoreGuidelines foi baixado (ou já estava baixado), ele é o repositorio de número: 29. Hora do término do download: 2020-03-31 03:04:27
+
+O repositório: certbot foi baixado (ou já estava baixado), ele é o repositorio de número: 30. Hora do término do download: 2020-03-31 03:04:33
+
+O repositório: Deep-Learning-Papers-Reading-Roadmap foi baixado (ou já estava baixado), ele é o repositorio de número: 31. Hora do término do download: 2020-03-31 03:04:38
+
+O repositório: interview_internal_reference foi baixado (ou já estava baixado), ele é o repositorio de número: 32. Hora do término do download: 2020-03-31 03:04:40
+
+O repositório: sentry foi baixado (ou já estava baixado), ele é o repositorio de número: 33. Hora do término do download: 2020-03-31 03:05:00
+
+O repositório: transformers foi baixado (ou já estava baixado), ele é o repositorio de número: 34. Hora do término do download: 2020-03-31 03:05:18
+
+O repositório: python-patterns foi baixado (ou já estava baixado), ele é o repositorio de número: 35. Hora do término do download: 2020-03-31 03:05:22
+
+O repositório: pandas foi baixado (ou já estava baixado), ele é o repositorio de número: 36. Hora do término do download: 2020-03-31 03:05:45
+
+O repositório: AiLearning foi baixado (ou já estava baixado), ele é o repositorio de número: 37. Hora do término do download: 2020-03-31 03:05:58
+
+O repositório: localstack foi baixado (ou já estava baixado), ele é o repositorio de número: 38. Hora do término do download: 2020-03-31 03:06:01
+
+O repositório: Detectron foi baixado (ou já estava baixado), ele é o repositorio de número: 39. Hora do término do download: 2020-03-31 03:06:05
+
+O repositório: jieba foi baixado (ou já estava baixado), ele é o repositorio de número: 40. Hora do término do download: 2020-03-31 03:06:12
+
+O repositório: bert foi baixado (ou já estava baixado), ele é o repositorio de número: 41. Hora do término do download: 2020-03-31 03:06:14
+
+O repositório: linux-insides foi baixado (ou já estava baixado), ele é o repositorio de número: 42. Hora do término do download: 2020-03-31 03:06:18
+
+O repositório: YouCompleteMe foi baixado (ou já estava baixado), ele é o repositorio de número: 43. Hora do término do download: 2020-03-31 03:06:23
+
+O repositório: gym foi baixado (ou já estava baixado), ele é o repositorio de número: 44. Hora do término do download: 2020-03-31 03:06:26
+
+O repositório: ItChat foi baixado (ou já estava baixado), ele é o repositorio de número: 45. Hora do término do download: 2020-03-31 03:06:29
+
+O repositório: pipenv foi baixado (ou já estava baixado), ele é o repositorio de número: 46. Hora do término do download: 2020-03-31 03:06:48
+
+O repositório: wtfpython foi baixado (ou já estava baixado), ele é o repositorio de número: 47. Hora do término do download: 2020-03-31 03:06:51
+
+O repositório: interactive-coding-challenges foi baixado (ou já estava baixado), ele é o repositorio de número: 48. Hora do término do download: 2020-03-31 03:06:54
+
+O repositório: manim foi baixado (ou já estava baixado), ele é o repositorio de número: 49. Hora do término do download: 2020-03-31 03:06:58
+
+O repositório: compose foi baixado (ou já estava baixado), ele é o repositorio de número: 50. Hora do término do download: 2020-03-31 03:07:03
+
+O repositório: tornado foi baixado (ou já estava baixado), ele é o repositorio de número: 51. Hora do término do download: 2020-03-31 03:07:07
+
+O repositório: HanLP foi baixado (ou já estava baixado), ele é o repositorio de número: 52. Hora do término do download: 2020-03-31 03:07:26
+
+O repositório: incubator-mxnet foi baixado (ou já estava baixado), ele é o repositorio de número: 53. Hora do término do download: 2020-03-31 03:07:39
+
+O repositório: cheat.sh foi baixado (ou já estava baixado), ele é o repositorio de número: 54. Hora do término do download: 2020-03-31 03:07:48
+
+O repositório: funNLP foi baixado (ou já estava baixado), ele é o repositorio de número: 55. Hora do término do download: 2020-03-31 03:08:01
+
+O repositório: mitmproxy foi baixado (ou já estava baixado), ele é o repositorio de número: 56. Hora do término do download: 2020-03-31 03:08:08
+
+O repositório: data-science-ipython-notebooks foi baixado (ou já estava baixado), ele é o repositorio de número: 57. Hora do término do download: 2020-03-31 03:08:16
+
+O repositório: algo foi baixado (ou já estava baixado), ele é o repositorio de número: 58. Hora do término do download: 2020-03-31 03:08:19
+
+O repositório: GitHub-Chinese-Top-Charts foi baixado (ou já estava baixado), ele é o repositorio de número: 59. Hora do término do download: 2020-03-31 03:08:23
+
+O repositório: algorithms foi baixado (ou já estava baixado), ele é o repositorio de número: 60. Hora do término do download: 2020-03-31 03:08:25
+
+O repositório: django-rest-framework foi baixado (ou já estava baixado), ele é o repositorio de número: 61. Hora do término do download: 2020-03-31 03:08:34
+
+O repositório: sqlmap foi baixado (ou já estava baixado), ele é o repositorio de número: 62. Hora do término do download: 2020-03-31 03:08:43
+
+O repositório: Python foi baixado (ou já estava baixado), ele é o repositorio de número: 63. Hora do término do download: 2020-03-31 03:08:50
+
+O repositório: d2l-zh foi baixado (ou já estava baixado), ele é o repositorio de número: 64. Hora do término do download: 2020-03-31 03:09:05
+
+O repositório: python-fire foi baixado (ou já estava baixado), ele é o repositorio de número: 65. Hora do término do download: 2020-03-31 03:09:07
+
+O repositório: Mask_RCNN foi baixado (ou já estava baixado), ele é o repositorio de número: 66. Hora do término do download: 2020-03-31 03:09:20
+
+O repositório: airflow foi baixado (ou já estava baixado), ele é o repositorio de número: 67. Hora do término do download: 2020-03-31 03:09:30
+
+O repositório: spaCy foi baixado (ou já estava baixado), ele é o repositorio de número: 68. Hora do término do download: 2020-03-31 03:09:50
+
+O repositório: pytorch-tutorial foi baixado (ou já estava baixado), ele é o repositorio de número: 69. Hora do término do download: 2020-03-31 03:09:54
+
+O repositório: ML-From-Scratch foi baixado (ou já estava baixado), ele é o repositorio de número: 70. Hora do término do download: 2020-03-31 03:09:56
+
+O repositório: Real-Time-Voice-Cloning foi baixado (ou já estava baixado), ele é o repositorio de número: 71. Hora do término do download: 2020-03-31 03:10:25
+
+O repositório: macOS-Security-and-Privacy-Guide foi baixado (ou já estava baixado), ele é o repositorio de número: 72. Hora do término do download: 2020-03-31 03:10:27
+
+O repositório: glances foi baixado (ou já estava baixado), ele é o repositorio de número: 73. Hora do término do download: 2020-03-31 03:10:32
+
+O repositório: ZeroNet foi baixado (ou já estava baixado), ele é o repositorio de número: 74. Hora do término do download: 2020-03-31 03:10:36
+
+O repositório: black foi baixado (ou já estava baixado), ele é o repositorio de número: 75. Hora do término do download: 2020-03-31 03:10:40
+
+O repositório: reddit foi baixado (ou já estava baixado), ele é o repositorio de número: 76. Hora do término do download: 2020-03-31 03:10:47
+
+O repositório: NLP-progress foi baixado (ou já estava baixado), ele é o repositorio de número: 77. Hora do término do download: 2020-03-31 03:10:51
+
+O repositório: hosts foi baixado (ou já estava baixado), ele é o repositorio de número: 78. Hora do término do download: 2020-03-31 03:11:17
+
+O repositório: magenta foi baixado (ou já estava baixado), ele é o repositorio de número: 79. Hora do término do download: 2020-03-31 03:11:23
+
+O repositório: celery foi baixado (ou já estava baixado), ele é o repositorio de número: 80. Hora do término do download: 2020-03-31 03:11:31
+
+O repositório: algo foi baixado (ou já estava baixado), ele é o repositorio de número: 81. Hora do término do download: 2020-03-31 03:11:35
+
+O repositório: pyspider foi baixado (ou já estava baixado), ele é o repositorio de número: 82. Hora do término do download: 2020-03-31 03:11:37
+
+O repositório: TensorFlow-Course foi baixado (ou já estava baixado), ele é o repositorio de número: 83. Hora do término do download: 2020-03-31 03:11:42
+
+O repositório: ipython foi baixado (ou já estava baixado), ele é o repositorio de número: 84. Hora do término do download: 2020-03-31 03:11:52
+
+O repositório: wechat_jump_game foi baixado (ou já estava baixado), ele é o repositorio de número: 85. Hora do término do download: 2020-03-31 03:11:58
+
+O repositório: tqdm foi baixado (ou já estava baixado), ele é o repositorio de número: 86. Hora do término do download: 2020-03-31 03:12:01
+
+O repositório: Awesome-Linux-Software foi baixado (ou já estava baixado), ele é o repositorio de número: 87. Hora do término do download: 2020-03-31 03:12:04
+
+O repositório: sanic foi baixado (ou já estava baixado), ele é o repositorio de número: 88. Hora do término do download: 2020-03-31 03:12:06
+
+O repositório: PayloadsAllTheThings apresentou problemas na leitura, ele era o repositorio de número: 89. Hora do erro: 2020-03-31 03:12:10
+
+O repositório: PySnooper foi baixado (ou já estava baixado), ele é o repositorio de número: 90. Hora do término do download: 2020-03-31 03:12:11
+
+O repositório: DeepFaceLab foi baixado (ou já estava baixado), ele é o repositorio de número: 91. Hora do término do download: 2020-03-31 03:13:07
+
+O repositório: bitcoinbook foi baixado (ou já estava baixado), ele é o repositorio de número: 92. Hora do término do download: 2020-03-31 03:13:14
+
+O repositório: bokeh foi baixado (ou já estava baixado), ele é o repositorio de número: 93. Hora do término do download: 2020-03-31 03:13:31
+
+O repositório: luigi foi baixado (ou já estava baixado), ele é o repositorio de número: 94. Hora do término do download: 2020-03-31 03:13:40
+
+O repositório: nginx-proxy foi baixado (ou já estava baixado), ele é o repositorio de número: 95. Hora do término do download: 2020-03-31 03:13:44
+
+O repositório: examples foi baixado (ou já estava baixado), ele é o repositorio de número: 96. Hora do término do download: 2020-03-31 03:13:49
+
+O repositório: locust foi baixado (ou já estava baixado), ele é o repositorio de número: 97. Hora do término do download: 2020-03-31 03:13:52
+
+O repositório: CheatSheetSeries foi baixado (ou já estava baixado), ele é o repositorio de número: 98. Hora do término do download: 2020-03-31 03:14:26
+
+O repositório: python-cheatsheet foi baixado (ou já estava baixado), ele é o repositorio de número: 99. Hora do término do download: 2020-03-31 03:14:29
+
+O repositório: fabric foi baixado (ou já estava baixado), ele é o repositorio de número: 100. Hora do término do download: 2020-03-31 03:14:33
+
+O repositório: wxpy foi baixado (ou já estava baixado), ele é o repositorio de número: 101. Hora do término do download: 2020-03-31 03:14:36
+
+O repositório: fastapi foi baixado (ou já estava baixado), ele é o repositorio de número: 102. Hora do término do download: 2020-03-31 03:14:39
+
+O repositório: cookiecutter foi baixado (ou já estava baixado), ele é o repositorio de número: 103. Hora do término do download: 2020-03-31 03:14:43
+
+O repositório: zulip foi baixado (ou já estava baixado), ele é o repositorio de número: 104. Hora do término do download: 2020-03-31 03:15:10
+
+O repositório: powerline foi baixado (ou já estava baixado), ele é o repositorio de número: 105. Hora do término do download: 2020-03-31 03:15:18
+
+O repositório: pytorch-CycleGAN-and-pix2pix foi baixado (ou já estava baixado), ele é o repositorio de número: 106. Hora do término do download: 2020-03-31 03:15:21
+
+O repositório: gpt-2 foi baixado (ou já estava baixado), ele é o repositorio de número: 107. Hora do término do download: 2020-03-31 03:15:24
+
+O repositório: awesome-python-login-model foi baixado (ou já estava baixado), ele é o repositorio de número: 108. Hora do término do download: 2020-03-31 03:15:28
+
+O repositório: dash foi baixado (ou já estava baixado), ele é o repositorio de número: 109. Hora do término do download: 2020-03-31 03:15:33
+
+O repositório: py12306 foi baixado (ou já estava baixado), ele é o repositorio de número: 110. Hora do término do download: 2020-03-31 03:15:36
+
+O repositório: matplotlib foi baixado (ou já estava baixado), ele é o repositorio de número: 111. Hora do término do download: 2020-03-31 03:16:12
+
+O repositório: material-theme foi baixado (ou já estava baixado), ele é o repositorio de número: 112. Hora do término do download: 2020-03-31 03:16:20
+
+O repositório: sherlock foi baixado (ou já estava baixado), ele é o repositorio de número: 113. Hora do término do download: 2020-03-31 03:16:25
+
+O repositório: autojump foi baixado (ou já estava baixado), ele é o repositorio de número: 114. Hora do término do download: 2020-03-31 03:16:27
+
+O repositório: ray foi baixado (ou já estava baixado), ele é o repositorio de número: 115. Hora do término do download: 2020-03-31 03:16:35
+
+O repositório: neural-networks-and-deep-learning foi baixado (ou já estava baixado), ele é o repositorio de número: 116. Hora do término do download: 2020-03-31 03:16:44
+
+O repositório: kivy foi baixado (ou já estava baixado), ele é o repositorio de número: 117. Hora do término do download: 2020-03-31 03:16:53
+
+O repositório: zipline foi baixado (ou já estava baixado), ele é o repositorio de número: 118. Hora do término do download: 2020-03-31 03:17:11
+
+O repositório: pix2code foi baixado (ou já estava baixado), ele é o repositorio de número: 119. Hora do término do download: 2020-03-31 03:18:10
+
+O repositório: cascadia-code foi baixado (ou já estava baixado), ele é o repositorio de número: 120. Hora do término do download: 2020-03-31 03:18:14
+
+O repositório: requests-html foi baixado (ou já estava baixado), ele é o repositorio de número: 121. Hora do término do download: 2020-03-31 03:18:17
+
+O repositório: salt foi baixado (ou já estava baixado), ele é o repositorio de número: 122. Hora do término do download: 2020-03-31 03:19:09
+
+O repositório: spleeter foi baixado (ou já estava baixado), ele é o repositorio de número: 123. Hora do término do download: 2020-03-31 03:19:16
+
+O repositório: game-programmer foi baixado (ou já estava baixado), ele é o repositorio de número: 124. Hora do término do download: 2020-03-31 03:19:36
+
+O repositório: gensim foi baixado (ou já estava baixado), ele é o repositorio de número: 125. Hora do término do download: 2020-03-31 03:19:47
+
+O repositório: inter foi baixado (ou já estava baixado), ele é o repositorio de número: 126. Hora do término do download: 2020-03-31 03:20:21
+
+O repositório: prophet foi baixado (ou já estava baixado), ele é o repositorio de número: 127. Hora do término do download: 2020-03-31 03:20:27
+
+O repositório: yapf foi baixado (ou já estava baixado), ele é o repositorio de número: 128. Hora do término do download: 2020-03-31 03:20:29
+
+O repositório: Zappa foi baixado (ou já estava baixado), ele é o repositorio de número: 129. Hora do término do download: 2020-03-31 03:20:32
+
+O repositório: magic-wormhole foi baixado (ou já estava baixado), ele é o repositorio de número: 130. Hora do término do download: 2020-03-31 03:20:35
+
+O repositório: facenet foi baixado (ou já estava baixado), ele é o repositorio de número: 131. Hora do término do download: 2020-03-31 03:20:38
+
+O repositório: python-spider foi baixado (ou já estava baixado), ele é o repositorio de número: 132. Hora do término do download: 2020-03-31 03:20:40
+
+O repositório: wttr.in foi baixado (ou já estava baixado), ele é o repositorio de número: 133. Hora do término do download: 2020-03-31 03:20:42
+
+O repositório: awesome-algorithm foi baixado (ou já estava baixado), ele é o repositorio de número: 134. Hora do término do download: 2020-03-31 03:20:46
+
+O repositório: FastPhotoStyle foi baixado (ou já estava baixado), ele é o repositorio de número: 135. Hora do término do download: 2020-03-31 03:20:52
+
+O repositório: labelImg foi baixado (ou já estava baixado), ele é o repositorio de número: 136. Hora do término do download: 2020-03-31 03:21:12
+
+O repositório: neural-enhance foi baixado (ou já estava baixado), ele é o repositorio de número: 137. Hora do término do download: 2020-03-31 03:21:14
+
+O repositório: wtfpython-cn foi baixado (ou já estava baixado), ele é o repositorio de número: 138. Hora do término do download: 2020-03-31 03:21:16
+
+O repositório: python-telegram-bot foi baixado (ou já estava baixado), ele é o repositorio de número: 139. Hora do término do download: 2020-03-31 03:21:19
+
+O repositório: poetry foi baixado (ou já estava baixado), ele é o repositorio de número: 140. Hora do término do download: 2020-03-31 03:21:23
+
+O repositório: tensor2tensor foi baixado (ou já estava baixado), ele é o repositorio de número: 141. Hora do término do download: 2020-03-31 03:21:30
+
+O repositório: jupyter foi baixado (ou já estava baixado), ele é o repositorio de número: 142. Hora do término do download: 2020-03-31 03:21:34
+
+O repositório: ChatterBot foi baixado (ou já estava baixado), ele é o repositorio de número: 143. Hora do término do download: 2020-03-31 03:21:36
+
+O repositório: mackup foi baixado (ou já estava baixado), ele é o repositorio de número: 144. Hora do término do download: 2020-03-31 03:21:39
+
+O repositório: sovereign foi baixado (ou já estava baixado), ele é o repositorio de número: 145. Hora do término do download: 2020-03-31 03:21:42
+
+O repositório: InstaPy foi baixado (ou já estava baixado), ele é o repositorio de número: 146. Hora do término do download: 2020-03-31 03:21:50
+
+O repositório: baselines foi baixado (ou já estava baixado), ele é o repositorio de número: 147. Hora do término do download: 2020-03-31 03:21:54
+
+O repositório: faker foi baixado (ou já estava baixado), ele é o repositorio de número: 148. Hora do término do download: 2020-03-31 03:21:58
+
+O repositório: pelican foi baixado (ou já estava baixado), ele é o repositorio de número: 149. Hora do término do download: 2020-03-31 03:22:03
+
+O repositório: stanford-tensorflow-tutorials foi baixado (ou já estava baixado), ele é o repositorio de número: 150. Hora do término do download: 2020-03-31 03:22:07
+
+O repositório: walle-web foi baixado (ou já estava baixado), ele é o repositorio de número: 151. Hora do término do download: 2020-03-31 03:22:12
+
+O repositório: speedtest-cli foi baixado (ou já estava baixado), ele é o repositorio de número: 152. Hora do término do download: 2020-03-31 03:22:14
+
+O repositório: aiohttp foi baixado (ou já estava baixado), ele é o repositorio de número: 153. Hora do término do download: 2020-03-31 03:22:18
+
+O repositório: aws-cli foi baixado (ou já estava baixado), ele é o repositorio de número: 154. Hora do término do download: 2020-03-31 03:22:25
+
+O repositório: mkdocs foi baixado (ou já estava baixado), ele é o repositorio de número: 155. Hora do término do download: 2020-03-31 03:22:34
+
+O repositório: tflearn foi baixado (ou já estava baixado), ele é o repositorio de número: 156. Hora do término do download: 2020-03-31 03:22:37
+
+O repositório: neural-doodle foi baixado (ou já estava baixado), ele é o repositorio de número: 157. Hora do término do download: 2020-03-31 03:22:40
+
+O repositório: newspaper foi baixado (ou já estava baixado), ele é o repositorio de número: 158. Hora do término do download: 2020-03-31 03:22:43
+
+O repositório: beets foi baixado (ou já estava baixado), ele é o repositorio de número: 159. Hora do término do download: 2020-03-31 03:22:48
+
+O repositório: proxy_pool foi baixado (ou já estava baixado), ele é o repositorio de número: 160. Hora do término do download: 2020-03-31 03:22:51
+
+O repositório: stylegan foi baixado (ou já estava baixado), ele é o repositorio de número: 161. Hora do término do download: 2020-03-31 03:22:55
+
+O repositório: DeepCreamPy foi baixado (ou já estava baixado), ele é o repositorio de número: 162. Hora do término do download: 2020-03-31 03:22:59
+
+O repositório: tushare foi baixado (ou já estava baixado), ele é o repositorio de número: 163. Hora do término do download: 2020-03-31 03:23:02
+
+O repositório: Theano foi baixado (ou já estava baixado), ele é o repositorio de número: 164. Hora do término do download: 2020-03-31 03:23:14
+
+O repositório: RocAlphaGo foi baixado (ou já estava baixado), ele é o repositorio de número: 165. Hora do término do download: 2020-03-31 03:23:19
+
+O repositório: click foi baixado (ou já estava baixado), ele é o repositorio de número: 166. Hora do término do download: 2020-03-31 03:23:22
+
+O repositório: sshuttle foi baixado (ou já estava baixado), ele é o repositorio de número: 167. Hora do término do download: 2020-03-31 03:23:24
+
+O repositório: mailinabox foi baixado (ou já estava baixado), ele é o repositorio de número: 168. Hora do término do download: 2020-03-31 03:23:27
+
+O repositório: detectron2 foi baixado (ou já estava baixado), ele é o repositorio de número: 169. Hora do término do download: 2020-03-31 03:23:29
+
+O repositório: mmdetection foi baixado (ou já estava baixado), ele é o repositorio de número: 170. Hora do término do download: 2020-03-31 03:23:33
+
+O repositório: fast-style-transfer foi baixado (ou já estava baixado), ele é o repositorio de número: 171. Hora do término do download: 2020-03-31 03:23:38
+
+O repositório: horovod foi baixado (ou já estava baixado), ele é o repositorio de número: 172. Hora do término do download: 2020-03-31 03:23:40
+
+O repositório: nltk foi baixado (ou já estava baixado), ele é o repositorio de número: 173. Hora do término do download: 2020-03-31 03:23:52
+
+O repositório: wifiphisher foi baixado (ou já estava baixado), ele é o repositorio de número: 174. Hora do término do download: 2020-03-31 03:23:57
+
+O repositório: termtosvg foi baixado (ou já estava baixado), ele é o repositorio de número: 175. Hora do término do download: 2020-03-31 03:23:59
+
+O repositório: Gooey foi baixado (ou já estava baixado), ele é o repositorio de número: 176. Hora do término do download: 2020-03-31 03:24:02
+
+O repositório: kitty foi baixado (ou já estava baixado), ele é o repositorio de número: 177. Hora do término do download: 2020-03-31 03:24:07
+
+O repositório: httpbin foi baixado (ou já estava baixado), ele é o repositorio de número: 178. Hora do término do download: 2020-03-31 03:24:09
+
+O repositório: USTC-Course foi baixado (ou já estava baixado), ele é o repositorio de número: 179. Hora do término do download: 2020-03-31 03:24:26
+
+O repositório: pgcli foi baixado (ou já estava baixado), ele é o repositorio de número: 180. Hora do término do download: 2020-03-31 03:24:29
+
+O repositório: wagtail foi baixado (ou já estava baixado), ele é o repositorio de número: 181. Hora do término do download: 2020-03-31 03:24:42
+
+O repositório: mycli foi baixado (ou já estava baixado), ele é o repositorio de número: 182. Hora do término do download: 2020-03-31 03:24:50
+
+O repositório: pyecharts foi baixado (ou já estava baixado), ele é o repositorio de número: 183. Hora do término do download: 2020-03-31 03:24:53
+
+O repositório: numpy-ml foi baixado (ou já estava baixado), ele é o repositorio de número: 184. Hora do término do download: 2020-03-31 03:24:56
+
+O repositório: imgaug foi baixado (ou já estava baixado), ele é o repositorio de número: 185. Hora do término do download: 2020-03-31 03:25:02
+
+O repositório: redis-py foi baixado (ou já estava baixado), ele é o repositorio de número: 186. Hora do término do download: 2020-03-31 03:25:05
+
+O repositório: flair foi baixado (ou já estava baixado), ele é o repositorio de número: 187. Hora do término do download: 2020-03-31 03:25:09
+
+O repositório: ungoogled-chromium foi baixado (ou já estava baixado), ele é o repositorio de número: 188. Hora do término do download: 2020-03-31 03:25:13
+
+O repositório: reinforcement-learning-an-introduction foi baixado (ou já estava baixado), ele é o repositorio de número: 189. Hora do término do download: 2020-03-31 03:25:15
+
+O repositório: sonnet foi baixado (ou já estava baixado), ele é o repositorio de número: 190. Hora do término do download: 2020-03-31 03:25:20
+
+O repositório: allennlp foi baixado (ou já estava baixado), ele é o repositorio de número: 191. Hora do término do download: 2020-03-31 03:25:38
+
+O repositório: musicbox foi baixado (ou já estava baixado), ele é o repositorio de número: 192. Hora do término do download: 2020-03-31 03:25:43
+
+O repositório: mypy foi baixado (ou já estava baixado), ele é o repositorio de número: 193. Hora do término do download: 2020-03-31 03:25:50
+
+O repositório: chisel foi baixado (ou já estava baixado), ele é o repositorio de número: 194. Hora do término do download: 2020-03-31 03:25:55
+
+O repositório: Mailpile foi baixado (ou já estava baixado), ele é o repositorio de número: 195. Hora do término do download: 2020-03-31 03:26:00
+
+O repositório: the-gan-zoo foi baixado (ou já estava baixado), ele é o repositorio de número: 196. Hora do término do download: 2020-03-31 03:26:03
+
+O repositório: rasa foi baixado (ou já estava baixado), ele é o repositorio de número: 197. Hora do término do download: 2020-03-31 03:27:49
+
+O repositório: ml-agents foi baixado (ou já estava baixado), ele é o repositorio de número: 198. Hora do término do download: 2020-03-31 03:28:22
+
+O repositório: asciinema foi baixado (ou já estava baixado), ele é o repositorio de número: 199. Hora do término do download: 2020-03-31 03:28:25
+
+O repositório: MLAlgorithms foi baixado (ou já estava baixado), ele é o repositorio de número: 200. Hora do término do download: 2020-03-31 03:28:28
+
+O repositório: awesome-aws foi baixado (ou já estava baixado), ele é o repositorio de número: 201. Hora do término do download: 2020-03-31 03:28:31
+
+O repositório: Shadowrocket-ADBlock-Rules foi baixado (ou já estava baixado), ele é o repositorio de número: 202. Hora do término do download: 2020-03-31 03:28:33
+
+O repositório: explainshell foi baixado (ou já estava baixado), ele é o repositorio de número: 203. Hora do término do download: 2020-03-31 03:28:35
+
+O repositório: tutorials foi baixado (ou já estava baixado), ele é o repositorio de número: 204. Hora do término do download: 2020-03-31 03:28:42
+
+O repositório: howdoi foi baixado (ou já estava baixado), ele é o repositorio de número: 205. Hora do término do download: 2020-03-31 03:28:44
+
+O repositório: routersploit foi baixado (ou já estava baixado), ele é o repositorio de número: 206. Hora do término do download: 2020-03-31 03:28:47
+
+O repositório: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee apresentou problemas na leitura, ele era o repositorio de número: 207. Hora do erro: 2020-03-31 03:28:57
+
+O repositório: XSStrike foi baixado (ou já estava baixado), ele é o repositorio de número: 208. Hora do término do download: 2020-03-31 03:28:58
+
+O repositório: coursera-dl foi baixado (ou já estava baixado), ele é o repositorio de número: 209. Hora do término do download: 2020-03-31 03:29:01
+
+O repositório: http-prompt foi baixado (ou já estava baixado), ele é o repositorio de número: 210. Hora do término do download: 2020-03-31 03:29:03
+
+O repositório: portia foi baixado (ou já estava baixado), ele é o repositorio de número: 211. Hora do término do download: 2020-03-31 03:29:08
+
+O repositório: falcon foi baixado (ou já estava baixado), ele é o repositorio de número: 212. Hora do término do download: 2020-03-31 03:29:12
+
+O repositório: Deep-Learning-with-TensorFlow-book foi baixado (ou já estava baixado), ele é o repositorio de número: 213. Hora do término do download: 2020-03-31 03:29:19
+
+O repositório: thumbor foi baixado (ou já estava baixado), ele é o repositorio de número: 214. Hora do término do download: 2020-03-31 03:29:26
+
+O repositório: jax foi baixado (ou já estava baixado), ele é o repositorio de número: 215. Hora do término do download: 2020-03-31 03:29:31
+
+O repositório: fashion-mnist foi baixado (ou já estava baixado), ele é o repositorio de número: 216. Hora do término do download: 2020-03-31 03:29:42
+
+O repositório: awesome-scala foi baixado (ou já estava baixado), ele é o repositorio de número: 217. Hora do término do download: 2020-03-31 03:29:44
+
+O repositório: peewee foi baixado (ou já estava baixado), ele é o repositorio de número: 218. Hora do término do download: 2020-03-31 03:29:48
+
+O repositório: q foi baixado (ou já estava baixado), ele é o repositorio de número: 219. Hora do término do download: 2020-03-31 03:29:51
+
+O repositório: django-cms foi baixado (ou já estava baixado), ele é o repositorio de número: 220. Hora do término do download: 2020-03-31 03:30:03
+
+O repositório: calibre foi baixado (ou já estava baixado), ele é o repositorio de número: 221. Hora do término do download: 2020-03-31 03:30:49
+
+O repositório: pattern foi baixado (ou já estava baixado), ele é o repositorio de número: 222. Hora do término do download: 2020-03-31 03:31:01
+
+O repositório: maskrcnn-benchmark foi baixado (ou já estava baixado), ele é o repositorio de número: 223. Hora do término do download: 2020-03-31 03:31:05
+
+O repositório: fairseq foi baixado (ou já estava baixado), ele é o repositorio de número: 224. Hora do término do download: 2020-03-31 03:31:08
+
+O repositório: ranger foi baixado (ou já estava baixado), ele é o repositorio de número: 225. Hora do término do download: 2020-03-31 03:31:14
+
+O repositório: vid2vid foi baixado (ou já estava baixado), ele é o repositorio de número: 226. Hora do término do download: 2020-03-31 03:31:29
+
+O repositório: EverydayWechat foi baixado (ou já estava baixado), ele é o repositorio de número: 227. Hora do término do download: 2020-03-31 03:31:31
+
+O repositório: DeDRM_tools foi baixado (ou já estava baixado), ele é o repositorio de número: 228. Hora do término do download: 2020-03-31 03:31:35
+
+O repositório: universe foi baixado (ou já estava baixado), ele é o repositorio de número: 229. Hora do término do download: 2020-03-31 03:31:37
+
+O repositório: Pillow foi baixado (ou já estava baixado), ele é o repositorio de número: 230. Hora do término do download: 2020-03-31 03:31:46
+
+O repositório: visdom foi baixado (ou já estava baixado), ele é o repositorio de número: 231. Hora do término do download: 2020-03-31 03:31:50
+
+O repositório: schedule foi baixado (ou já estava baixado), ele é o repositorio de número: 232. Hora do término do download: 2020-03-31 03:31:52
+
+O repositório: bert-as-service foi baixado (ou já estava baixado), ele é o repositorio de número: 233. Hora do término do download: 2020-03-31 03:31:55
+
+O repositório: qrcode foi baixado (ou já estava baixado), ele é o repositorio de número: 234. Hora do término do download: 2020-03-31 03:31:57
+
+O repositório: TrumpScript foi baixado (ou já estava baixado), ele é o repositorio de número: 235. Hora do término do download: 2020-03-31 03:31:59
+
+O repositório: networkx foi baixado (ou já estava baixado), ele é o repositorio de número: 236. Hora do término do download: 2020-03-31 03:32:04
+
+O repositório: pytorch_geometric foi baixado (ou já estava baixado), ele é o repositorio de número: 237. Hora do término do download: 2020-03-31 03:32:08
+
+O repositório: saleor foi baixado (ou já estava baixado), ele é o repositorio de número: 238. Hora do término do download: 2020-03-31 03:32:24
+
+O repositório: zhao foi baixado (ou já estava baixado), ele é o repositorio de número: 239. Hora do término do download: 2020-03-31 03:32:37
+
+O repositório: docopt foi baixado (ou já estava baixado), ele é o repositorio de número: 240. Hora do término do download: 2020-03-31 03:32:39
+
+O repositório: seaborn foi baixado (ou já estava baixado), ele é o repositorio de número: 241. Hora do término do download: 2020-03-31 03:32:46
+
+O repositório: scipy foi baixado (ou já estava baixado), ele é o repositorio de número: 242. Hora do término do download: 2020-03-31 03:32:59
+
+O repositório: jinja foi baixado (ou já estava baixado), ele é o repositorio de número: 243. Hora do término do download: 2020-03-31 03:33:10
+
+O repositório: examples-of-web-crawlers foi baixado (ou já estava baixado), ele é o repositorio de número: 244. Hora do término do download: 2020-03-31 03:33:29
+
+O repositório: chinese-xinhua foi baixado (ou já estava baixado), ele é o repositorio de número: 245. Hora do término do download: 2020-03-31 03:33:39
+
+O repositório: TextBlob foi baixado (ou já estava baixado), ele é o repositorio de número: 246. Hora do término do download: 2020-03-31 03:33:42
+
+O repositório: tpot foi baixado (ou já estava baixado), ele é o repositorio de número: 247. Hora do término do download: 2020-03-31 03:33:45
+
+O repositório: Chinese-Word-Vectors foi baixado (ou já estava baixado), ele é o repositorio de número: 248. Hora do término do download: 2020-03-31 03:33:47
+
+O repositório: word_cloud foi baixado (ou já estava baixado), ele é o repositorio de número: 249. Hora do término do download: 2020-03-31 03:33:56
+
+O repositório: rq foi baixado (ou já estava baixado), ele é o repositorio de número: 250. Hora do término do download: 2020-03-31 03:33:59
+
+O repositório: serverless-application-model foi baixado (ou já estava baixado), ele é o repositorio de número: 251. Hora do término do download: 2020-03-31 03:34:02
+
+O repositório: sympy foi baixado (ou já estava baixado), ele é o repositorio de número: 252. Hora do término do download: 2020-03-31 03:34:21
+
+O repositório: autokeras foi baixado (ou já estava baixado), ele é o repositorio de número: 253. Hora do término do download: 2020-03-31 03:34:34
+
+O repositório: gitsome foi baixado (ou já estava baixado), ele é o repositorio de número: 254. Hora do término do download: 2020-03-31 03:34:37
+
+O repositório: Douyin-Bot foi baixado (ou já estava baixado), ele é o repositorio de número: 255. Hora do término do download: 2020-03-31 03:34:43
+
+O repositório: pysc2 foi baixado (ou já estava baixado), ele é o repositorio de número: 256. Hora do término do download: 2020-03-31 03:34:45
+
+O repositório: mlcourse.ai foi baixado (ou já estava baixado), ele é o repositorio de número: 257. Hora do término do download: 2020-03-31 03:35:37
+
+O repositório: uvloop foi baixado (ou já estava baixado), ele é o repositorio de número: 258. Hora do término do download: 2020-03-31 03:35:41
+
+O repositório: bottle foi baixado (ou já estava baixado), ele é o repositorio de número: 259. Hora do término do download: 2020-03-31 03:35:44
+
+O repositório: fuzzywuzzy foi baixado (ou já estava baixado), ele é o repositorio de número: 260. Hora do término do download: 2020-03-31 03:35:46
+
+O repositório: Keras-GAN foi baixado (ou já estava baixado), ele é o repositorio de número: 261. Hora do término do download: 2020-03-31 03:35:55
+
+O repositório: py-faster-rcnn foi baixado (ou já estava baixado), ele é o repositorio de número: 262. Hora do término do download: 2020-03-31 03:35:57
+
+O repositório: gunicorn foi baixado (ou já estava baixado), ele é o repositorio de número: 263. Hora do término do download: 2020-03-31 03:36:00
+
+O repositório: WeixinBot foi baixado (ou já estava baixado), ele é o repositorio de número: 264. Hora do término do download: 2020-03-31 03:36:03
+
+O repositório: tweepy foi baixado (ou já estava baixado), ele é o repositorio de número: 265. Hora do término do download: 2020-03-31 03:36:05
+
+O repositório: elastalert foi baixado (ou já estava baixado), ele é o repositorio de número: 266. Hora do término do download: 2020-03-31 03:36:08
+
+O repositório: ludwig foi baixado (ou já estava baixado), ele é o repositorio de número: 267. Hora do término do download: 2020-03-31 03:36:12
+
+O repositório: chalice foi baixado (ou já estava baixado), ele é o repositorio de número: 268. Hora do término do download: 2020-03-31 03:36:15
+
+O repositório: google-images-download foi baixado (ou já estava baixado), ele é o repositorio de número: 269. Hora do término do download: 2020-03-31 03:36:18
+
+O repositório: pyinstaller foi baixado (ou já estava baixado), ele é o repositorio de número: 270. Hora do término do download: 2020-03-31 03:36:24
+
+O repositório: monoid foi baixado (ou já estava baixado), ele é o repositorio de número: 271. Hora do término do download: 2020-03-31 03:36:42
+
+O repositório: faceai foi baixado (ou já estava baixado), ele é o repositorio de número: 272. Hora do término do download: 2020-03-31 03:36:49
+
+O repositório: dask foi baixado (ou já estava baixado), ele é o repositorio de número: 273. Hora do término do download: 2020-03-31 03:36:54
+
+O repositório: maybe foi baixado (ou já estava baixado), ele é o repositorio de número: 274. Hora do término do download: 2020-03-31 03:36:57
+
+O repositório: cookiecutter-django foi baixado (ou já estava baixado), ele é o repositorio de número: 275. Hora do término do download: 2020-03-31 03:36:59
+
+O repositório: boto foi baixado (ou já estava baixado), ele é o repositorio de número: 276. Hora do término do download: 2020-03-31 03:37:04
+
+O repositório: Photon foi baixado (ou já estava baixado), ele é o repositorio de número: 277. Hora do término do download: 2020-03-31 03:37:10
+
+O repositório: mopidy foi baixado (ou já estava baixado), ele é o repositorio de número: 278. Hora do término do download: 2020-03-31 03:37:14
+
+O repositório: flasky foi baixado (ou já estava baixado), ele é o repositorio de número: 279. Hora do término do download: 2020-03-31 03:37:17
+
+O repositório: pwntools foi baixado (ou já estava baixado), ele é o repositorio de número: 280. Hora do término do download: 2020-03-31 03:37:22
+
+O repositório: pretrained-models.pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 281. Hora do término do download: 2020-03-31 03:37:24
+
+O repositório: moviepy foi baixado (ou já estava baixado), ele é o repositorio de número: 282. Hora do término do download: 2020-03-31 03:37:29
+
+O repositório: insightface foi baixado (ou já estava baixado), ele é o repositorio de número: 283. Hora do término do download: 2020-03-31 03:37:35
+
+O repositório: gixy foi baixado (ou já estava baixado), ele é o repositorio de número: 284. Hora do término do download: 2020-03-31 03:37:38
+
+O repositório: plotly.py foi baixado (ou já estava baixado), ele é o repositorio de número: 285. Hora do término do download: 2020-03-31 03:37:55
+
+O repositório: machine-learning-course foi baixado (ou já estava baixado), ele é o repositorio de número: 286. Hora do término do download: 2020-03-31 03:38:07
+
+O repositório: netbox foi baixado (ou já estava baixado), ele é o repositorio de número: 287. Hora do término do download: 2020-03-31 03:38:12
+
+O repositório: searx foi baixado (ou já estava baixado), ele é o repositorio de número: 288. Hora do término do download: 2020-03-31 03:38:18
+
+O repositório: gdb-dashboard foi baixado (ou já estava baixado), ele é o repositorio de número: 289. Hora do término do download: 2020-03-31 03:38:20
+
+O repositório: 30-seconds-of-python foi baixado (ou já estava baixado), ele é o repositorio de número: 290. Hora do término do download: 2020-03-31 03:38:28
+
+O repositório: howmanypeoplearearound foi baixado (ou já estava baixado), ele é o repositorio de número: 291. Hora do término do download: 2020-03-31 03:38:30
+
+O repositório: records foi baixado (ou já estava baixado), ele é o repositorio de número: 292. Hora do término do download: 2020-03-31 03:38:32
+
+O repositório: node-gyp foi baixado (ou já estava baixado), ele é o repositorio de número: 293. Hora do término do download: 2020-03-31 03:38:35
+
+O repositório: mlflow foi baixado (ou já estava baixado), ele é o repositorio de número: 294. Hora do término do download: 2020-03-31 03:38:42
+
+O repositório: bup foi baixado (ou já estava baixado), ele é o repositorio de número: 295. Hora do término do download: 2020-03-31 03:38:47
+
+O repositório: ArchiveBox foi baixado (ou já estava baixado), ele é o repositorio de número: 296. Hora do término do download: 2020-03-31 03:38:50
+
+O repositório: yowsup foi baixado (ou já estava baixado), ele é o repositorio de número: 297. Hora do término do download: 2020-03-31 03:38:52
+
+O repositório: pip foi baixado (ou já estava baixado), ele é o repositorio de número: 298. Hora do término do download: 2020-03-31 03:39:02
+
+O repositório: hug foi baixado (ou já estava baixado), ele é o repositorio de número: 299. Hora do término do download: 2020-03-31 03:39:14
+
+O repositório: python-prompt-toolkit foi baixado (ou já estava baixado), ele é o repositorio de número: 300. Hora do término do download: 2020-03-31 03:39:18
+
+O repositório: tensorboardX foi baixado (ou já estava baixado), ele é o repositorio de número: 301. Hora do término do download: 2020-03-31 03:39:22
+
+O repositório: deep-learning-models foi baixado (ou já estava baixado), ele é o repositorio de número: 302. Hora do término do download: 2020-03-31 03:39:26
+
+O repositório: paramiko foi baixado (ou já estava baixado), ele é o repositorio de número: 303. Hora do término do download: 2020-03-31 03:39:29
+
+O repositório: h4cker foi baixado (ou já estava baixado), ele é o repositorio de número: 304. Hora do término do download: 2020-03-31 03:39:36
+
+O repositório: deis foi baixado (ou já estava baixado), ele é o repositorio de número: 305. Hora do término do download: 2020-03-31 03:39:41
+
+O repositório: abu foi baixado (ou já estava baixado), ele é o repositorio de número: 306. Hora do término do download: 2020-03-31 03:39:52
+
+O repositório: anki foi baixado (ou já estava baixado), ele é o repositorio de número: 307. Hora do término do download: 2020-03-31 03:39:56
+
+O repositório: Anti-Anti-Spider foi baixado (ou já estava baixado), ele é o repositorio de número: 308. Hora do término do download: 2020-03-31 03:40:09
+
+O repositório: pyro foi baixado (ou já estava baixado), ele é o repositorio de número: 309. Hora do término do download: 2020-03-31 03:40:19
+
+O repositório: nupic foi baixado (ou já estava baixado), ele é o repositorio de número: 310. Hora do término do download: 2020-03-31 03:40:37
+
+O repositório: eve foi baixado (ou já estava baixado), ele é o repositorio de número: 311. Hora do término do download: 2020-03-31 03:40:45
+
+O repositório: supervisor foi baixado (ou já estava baixado), ele é o repositorio de número: 312. Hora do término do download: 2020-03-31 03:40:48
+
+O repositório: psutil foi baixado (ou já estava baixado), ele é o repositorio de número: 313. Hora do término do download: 2020-03-31 03:40:54
+
+O repositório: mps-youtube foi baixado (ou já estava baixado), ele é o repositorio de número: 314. Hora do término do download: 2020-03-31 03:40:57
+
+O repositório: arrow foi baixado (ou já estava baixado), ele é o repositorio de número: 315. Hora do término do download: 2020-03-31 03:41:00
+
+O repositório: text_classification foi baixado (ou já estava baixado), ele é o repositorio de número: 316. Hora do término do download: 2020-03-31 03:41:03
+
+O repositório: tensorlayer foi baixado (ou já estava baixado), ele é o repositorio de número: 317. Hora do término do download: 2020-03-31 03:41:13
+
+O repositório: botframework-sdk foi baixado (ou já estava baixado), ele é o repositorio de número: 318. Hora do término do download: 2020-03-31 03:41:34
+
+O repositório: ajenti foi baixado (ou já estava baixado), ele é o repositorio de número: 319. Hora do término do download: 2020-03-31 03:41:39
+
+O repositório: generative-models foi baixado (ou já estava baixado), ele é o repositorio de número: 320. Hora do término do download: 2020-03-31 03:41:41
+
+O repositório: c9-python-getting-started foi baixado (ou já estava baixado), ele é o repositorio de número: 321. Hora do término do download: 2020-03-31 03:41:44
+
+O repositório: binwalk foi baixado (ou já estava baixado), ele é o repositorio de número: 322. Hora do término do download: 2020-03-31 03:41:51
+
+O repositório: erpnext foi baixado (ou já estava baixado), ele é o repositorio de número: 323. Hora do término do download: 2020-03-31 03:43:05
+
+O repositório: python-for-android foi baixado (ou já estava baixado), ele é o repositorio de número: 324. Hora do término do download: 2020-03-31 03:43:21
+
+O repositório: PyTorch-GAN foi baixado (ou já estava baixado), ele é o repositorio de número: 325. Hora do término do download: 2020-03-31 03:43:30
+
+O repositório: BossSensor foi baixado (ou já estava baixado), ele é o repositorio de número: 326. Hora do término do download: 2020-03-31 03:43:34
+
+O repositório: django-debug-toolbar foi baixado (ou já estava baixado), ele é o repositorio de número: 327. Hora do término do download: 2020-03-31 03:43:37
+
+O repositório: loguru foi baixado (ou já estava baixado), ele é o repositorio de número: 328. Hora do término do download: 2020-03-31 03:43:40
+
+O repositório: PyMySQL foi baixado (ou já estava baixado), ele é o repositorio de número: 329. Hora do término do download: 2020-03-31 03:43:42
+
+O repositório: beeswithmachineguns foi baixado (ou já estava baixado), ele é o repositorio de número: 330. Hora do término do download: 2020-03-31 03:43:44
+
+O repositório: pysheeet foi baixado (ou já estava baixado), ele é o repositorio de número: 331. Hora do término do download: 2020-03-31 03:43:46
+
+O repositório: pytext foi baixado (ou já estava baixado), ele é o repositorio de número: 332. Hora do término do download: 2020-03-31 03:43:49
+
+O repositório: readthedocs.org foi baixado (ou já estava baixado), ele é o repositorio de número: 333. Hora do término do download: 2020-03-31 03:43:59
+
+O repositório: ngxtop foi baixado (ou já estava baixado), ele é o repositorio de número: 334. Hora do término do download: 2020-03-31 03:44:03
+
+O repositório: Mobile-Security-Framework-MobSF foi baixado (ou já estava baixado), ele é o repositorio de número: 335. Hora do término do download: 2020-03-31 03:44:45
+
+O repositório: synapse foi baixado (ou já estava baixado), ele é o repositorio de número: 336. Hora do término do download: 2020-03-31 03:44:56
+
+O repositório: pytest foi baixado (ou já estava baixado), ele é o repositorio de número: 337. Hora do término do download: 2020-03-31 03:45:05
+
+O repositório: SPADE foi baixado (ou já estava baixado), ele é o repositorio de número: 338. Hora do término do download: 2020-03-31 03:45:10
+
+O repositório: nginx-book foi baixado (ou já estava baixado), ele é o repositorio de número: 339. Hora do término do download: 2020-03-31 03:45:12
+
+O repositório: ipwndfu foi baixado (ou já estava baixado), ele é o repositorio de número: 340. Hora do término do download: 2020-03-31 03:45:14
+
+O repositório: nni foi baixado (ou já estava baixado), ele é o repositorio de número: 341. Hora do término do download: 2020-03-31 03:45:21
+
+O repositório: legit foi baixado (ou já estava baixado), ele é o repositorio de número: 342. Hora do término do download: 2020-03-31 03:45:25
+
+O repositório: DeepLearningFlappyBird foi baixado (ou já estava baixado), ele é o repositorio de número: 343. Hora do término do download: 2020-03-31 03:45:32
+
+O repositório: theZoo foi baixado (ou já estava baixado), ele é o repositorio de número: 344. Hora do término do download: 2020-03-31 03:46:26
+
+O repositório: vibora foi baixado (ou já estava baixado), ele é o repositorio de número: 345. Hora do término do download: 2020-03-31 03:46:32
+
+O repositório: graphene foi baixado (ou já estava baixado), ele é o repositorio de número: 346. Hora do término do download: 2020-03-31 03:46:35
+
+O repositório: jupyterhub foi baixado (ou já estava baixado), ele é o repositorio de número: 347. Hora do término do download: 2020-03-31 03:46:39
+
+O repositório: instabot.py foi baixado (ou já estava baixado), ele é o repositorio de número: 348. Hora do término do download: 2020-03-31 03:46:41
+
+O repositório: fuck-login foi baixado (ou já estava baixado), ele é o repositorio de número: 349. Hora do término do download: 2020-03-31 03:46:43
+
+O repositório: flask-restful foi baixado (ou já estava baixado), ele é o repositorio de número: 350. Hora do término do download: 2020-03-31 03:46:45
+
+O repositório: NewsBlur foi baixado (ou já estava baixado), ele é o repositorio de número: 351. Hora do término do download: 2020-03-31 03:47:35
+
+O repositório: aws-shell foi baixado (ou já estava baixado), ele é o repositorio de número: 352. Hora do término do download: 2020-03-31 03:47:45
+
+O repositório: darkflow foi baixado (ou já estava baixado), ele é o repositorio de número: 353. Hora do término do download: 2020-03-31 03:47:50
+
+O repositório: keras-yolo3 foi baixado (ou já estava baixado), ele é o repositorio de número: 354. Hora do término do download: 2020-03-31 03:47:52
+
+O repositório: gitfiti foi baixado (ou já estava baixado), ele é o repositorio de número: 355. Hora do término do download: 2020-03-31 03:47:53
+
+O repositório: apistar foi baixado (ou já estava baixado), ele é o repositorio de número: 356. Hora do término do download: 2020-03-31 03:47:56
+
+O repositório: WebHubBot foi baixado (ou já estava baixado), ele é o repositorio de número: 357. Hora do término do download: 2020-03-31 03:48:01
+
+O repositório: Flashlight foi baixado (ou já estava baixado), ele é o repositorio de número: 358. Hora do término do download: 2020-03-31 03:48:10
+
+O repositório: SpaceshipGenerator foi baixado (ou já estava baixado), ele é o repositorio de número: 359. Hora do término do download: 2020-03-31 03:48:17
+
+O repositório: pupy foi baixado (ou já estava baixado), ele é o repositorio de número: 360. Hora do término do download: 2020-03-31 03:48:21
+
+O repositório: deepo foi baixado (ou já estava baixado), ele é o repositorio de número: 361. Hora do término do download: 2020-03-31 03:48:27
+
+O repositório: chinese-dos-games foi baixado (ou já estava baixado), ele é o repositorio de número: 362. Hora do término do download: 2020-03-31 03:48:30
+
+O repositório: ParlAI foi baixado (ou já estava baixado), ele é o repositorio de número: 363. Hora do término do download: 2020-03-31 03:48:37
+
+O repositório: SASM foi baixado (ou já estava baixado), ele é o repositorio de número: 364. Hora do término do download: 2020-03-31 03:48:45
+
+O repositório: webpy foi baixado (ou já estava baixado), ele é o repositorio de número: 365. Hora do término do download: 2020-03-31 03:48:48
+
+O repositório: trump2cash foi baixado (ou já estava baixado), ele é o repositorio de número: 366. Hora do término do download: 2020-03-31 03:48:50
+
+O repositório: tensorpack foi baixado (ou já estava baixado), ele é o repositorio de número: 367. Hora do término do download: 2020-03-31 03:48:54
+
+O repositório: shadowsocksr foi baixado (ou já estava baixado), ele é o repositorio de número: 368. Hora do término do download: 2020-03-31 03:48:58
+
+O repositório: nmt foi baixado (ou já estava baixado), ele é o repositorio de número: 369. Hora do término do download: 2020-03-31 03:49:00
+
+O repositório: chainer foi baixado (ou já estava baixado), ele é o repositorio de número: 370. Hora do término do download: 2020-03-31 03:49:12
+
+O repositório: boto3 foi baixado (ou já estava baixado), ele é o repositorio de número: 371. Hora do término do download: 2020-03-31 03:49:22
+
+O repositório: django-allauth foi baixado (ou já estava baixado), ele é o repositorio de número: 372. Hora do término do download: 2020-03-31 03:49:25
+
+O repositório: PySyft foi baixado (ou já estava baixado), ele é o repositorio de número: 373. Hora do término do download: 2020-03-31 03:49:34
+
+O repositório: spyder foi baixado (ou já estava baixado), ele é o repositorio de número: 374. Hora do término do download: 2020-03-31 03:49:46
+
+O repositório: LaZagne foi baixado (ou já estava baixado), ele é o repositorio de número: 375. Hora do término do download: 2020-03-31 03:49:51
+
+O repositório: qutebrowser foi baixado (ou já estava baixado), ele é o repositorio de número: 376. Hora do término do download: 2020-03-31 03:50:00
+
+O repositório: Dshell foi baixado (ou já estava baixado), ele é o repositorio de número: 377. Hora do término do download: 2020-03-31 03:50:04
+
+O repositório: werkzeug foi baixado (ou já estava baixado), ele é o repositorio de número: 378. Hora do término do download: 2020-03-31 03:50:08
+
+O repositório: sh foi baixado (ou já estava baixado), ele é o repositorio de número: 379. Hora do término do download: 2020-03-31 03:50:11
+
+O repositório: ultisnips foi baixado (ou já estava baixado), ele é o repositorio de número: 380. Hora do término do download: 2020-03-31 03:50:14
+
+O repositório: interpy-zh foi baixado (ou já estava baixado), ele é o repositorio de número: 381. Hora do término do download: 2020-03-31 03:50:16
+
+O repositório: opensnitch foi baixado (ou já estava baixado), ele é o repositorio de número: 382. Hora do término do download: 2020-03-31 03:50:19
+
+O repositório: codeface foi baixado (ou já estava baixado), ele é o repositorio de número: 383. Hora do término do download: 2020-03-31 03:50:53
+
+O repositório: awesome-cheatsheet foi baixado (ou já estava baixado), ele é o repositorio de número: 384. Hora do término do download: 2020-03-31 03:50:58
+
+O repositório: open_nsfw foi baixado (ou já estava baixado), ele é o repositorio de número: 385. Hora do término do download: 2020-03-31 03:51:04
+
+O repositório: social-engineer-toolkit foi baixado (ou já estava baixado), ele é o repositorio de número: 386. Hora do término do download: 2020-03-31 03:51:20
+
+O repositório: taiga-back foi baixado (ou já estava baixado), ele é o repositorio de número: 387. Hora do término do download: 2020-03-31 03:51:27
+
+O repositório: xlnet foi baixado (ou já estava baixado), ele é o repositorio de número: 388. Hora do término do download: 2020-03-31 03:51:34
+
+O repositório: programming-talks foi baixado (ou já estava baixado), ele é o repositorio de número: 389. Hora do término do download: 2020-03-31 03:51:36
+
+O repositório: fsociety foi baixado (ou já estava baixado), ele é o repositorio de número: 390. Hora do término do download: 2020-03-31 03:51:37
+
+O repositório: seq2seq foi baixado (ou já estava baixado), ele é o repositorio de número: 391. Hora do término do download: 2020-03-31 03:51:39
+
+O repositório: bypy foi baixado (ou já estava baixado), ele é o repositorio de número: 392. Hora do término do download: 2020-03-31 03:51:42
+
+O repositório: iOSBlogCN foi baixado (ou já estava baixado), ele é o repositorio de número: 393. Hora do término do download: 2020-03-31 03:51:44
+
+O repositório: cnn-text-classification-tf foi baixado (ou já estava baixado), ele é o repositorio de número: 394. Hora do término do download: 2020-03-31 03:51:45
+
+O repositório: incubator-tvm foi baixado (ou já estava baixado), ele é o repositorio de número: 395. Hora do término do download: 2020-03-31 03:51:54
+
+O repositório: powerline-shell foi baixado (ou já estava baixado), ele é o repositorio de número: 396. Hora do término do download: 2020-03-31 03:52:02
+
+O repositório: eht-imaging foi baixado (ou já estava baixado), ele é o repositorio de número: 397. Hora do término do download: 2020-03-31 03:52:07
+
+O repositório: neural-style foi baixado (ou já estava baixado), ele é o repositorio de número: 398. Hora do término do download: 2020-03-31 03:52:09
+
+O repositório: srez foi baixado (ou já estava baixado), ele é o repositorio de número: 399. Hora do término do download: 2020-03-31 03:52:13
+
+O repositório: boltons foi baixado (ou já estava baixado), ele é o repositorio de número: 400. Hora do término do download: 2020-03-31 03:52:15
+
+O repositório: neuraltalk foi baixado (ou já estava baixado), ele é o repositorio de número: 401. Hora do término do download: 2020-03-31 03:52:18
+
+O repositório: numba foi baixado (ou já estava baixado), ele é o repositorio de número: 402. Hora do término do download: 2020-03-31 03:52:27
+
+O repositório: sshuttle foi baixado (ou já estava baixado), ele é o repositorio de número: 403. Hora do término do download: 2020-03-31 03:52:32
+
+O repositório: progressive_growing_of_gans foi baixado (ou já estava baixado), ele é o repositorio de número: 404. Hora do término do download: 2020-03-31 03:52:34
+
+O repositório: voltron foi baixado (ou já estava baixado), ele é o repositorio de número: 405. Hora do término do download: 2020-03-31 03:52:36
+
+O repositório: gevent foi baixado (ou já estava baixado), ele é o repositorio de número: 406. Hora do término do download: 2020-03-31 03:52:40
+
+O repositório: devops-exercises foi baixado (ou já estava baixado), ele é o repositorio de número: 407. Hora do término do download: 2020-03-31 03:52:44
+
+O repositório: scapy foi baixado (ou já estava baixado), ele é o repositorio de número: 408. Hora do término do download: 2020-03-31 03:52:54
+
+O repositório: SublimeCodeIntel foi baixado (ou já estava baixado), ele é o repositorio de número: 409. Hora do término do download: 2020-03-31 03:53:02
+
+O repositório: wxBot foi baixado (ou já estava baixado), ele é o repositorio de número: 410. Hora do término do download: 2020-03-31 03:53:04
+
+O repositório: altair foi baixado (ou já estava baixado), ele é o repositorio de número: 411. Hora do término do download: 2020-03-31 03:53:09
+
+O repositório: cython foi baixado (ou já estava baixado), ele é o repositorio de número: 412. Hora do término do download: 2020-03-31 03:53:19
+
+O repositório: deoplete.nvim foi baixado (ou já estava baixado), ele é o repositorio de número: 413. Hora do término do download: 2020-03-31 03:53:22
+
+O repositório: faster-rcnn.pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 414. Hora do término do download: 2020-03-31 03:53:25
+
+O repositório: sanitizers foi baixado (ou já estava baixado), ele é o repositorio de número: 415. Hora do término do download: 2020-03-31 03:53:31
+
+O repositório: Reinforcement-learning-with-tensorflow foi baixado (ou já estava baixado), ele é o repositorio de número: 416. Hora do término do download: 2020-03-31 03:53:33
+
+O repositório: transferlearning foi baixado (ou já estava baixado), ele é o repositorio de número: 417. Hora do término do download: 2020-03-31 03:53:36
+
+O repositório: numpy-100 foi baixado (ou já estava baixado), ele é o repositorio de número: 418. Hora do término do download: 2020-03-31 03:53:38
+
+O repositório: data-science-blogs foi baixado (ou já estava baixado), ele é o repositorio de número: 419. Hora do término do download: 2020-03-31 03:53:39
+
+O repositório: dev-setup foi baixado (ou já estava baixado), ele é o repositorio de número: 420. Hora do término do download: 2020-03-31 03:53:41
+
+O repositório: Python foi baixado (ou já estava baixado), ele é o repositorio de número: 421. Hora do término do download: 2020-03-31 03:53:44
+
+O repositório: pymc3 foi baixado (ou já estava baixado), ele é o repositorio de número: 422. Hora do término do download: 2020-03-31 03:54:18
+
+O repositório: statsmodels foi baixado (ou já estava baixado), ele é o repositorio de número: 423. Hora do término do download: 2020-03-31 03:54:26
+
+O repositório: DisableWinTracking foi baixado (ou já estava baixado), ele é o repositorio de número: 424. Hora do término do download: 2020-03-31 03:54:33
+
+O repositório: wechat-deleted-friends foi baixado (ou já estava baixado), ele é o repositorio de número: 425. Hora do término do download: 2020-03-31 03:54:34
+
+O repositório: docker-stacks foi baixado (ou já estava baixado), ele é o repositorio de número: 426. Hora do término do download: 2020-03-31 03:54:36
+
+O repositório: edx-platform foi baixado (ou já estava baixado), ele é o repositorio de número: 427. Hora do término do download: 2020-03-31 03:56:21
+
+O repositório: dejavu foi baixado (ou já estava baixado), ele é o repositorio de número: 428. Hora do término do download: 2020-03-31 03:56:42
+
+O repositório: aws-sam-cli foi baixado (ou já estava baixado), ele é o repositorio de número: 429. Hora do término do download: 2020-03-31 03:56:47
+
+O repositório: fail2ban foi baixado (ou já estava baixado), ele é o repositorio de número: 430. Hora do término do download: 2020-03-31 03:56:53
+
+O repositório: have-fun-with-machine-learning foi baixado (ou já estava baixado), ele é o repositorio de número: 431. Hora do término do download: 2020-03-31 03:56:56
+
+O repositório: urh foi baixado (ou já estava baixado), ele é o repositorio de número: 432. Hora do término do download: 2020-03-31 03:57:04
+
+O repositório: tensorflow-wavenet foi baixado (ou já estava baixado), ele é o repositorio de número: 433. Hora do término do download: 2020-03-31 03:57:07
+
+O repositório: TopDeepLearning foi baixado (ou já estava baixado), ele é o repositorio de número: 434. Hora do término do download: 2020-03-31 03:57:12
+
+O repositório: fantasque-sans foi baixado (ou já estava baixado), ele é o repositorio de número: 435. Hora do término do download: 2020-03-31 03:57:15
+
+O repositório: face_classification foi baixado (ou já estava baixado), ele é o repositorio de número: 436. Hora do término do download: 2020-03-31 03:57:28
+
+O repositório: dvc foi baixado (ou já estava baixado), ele é o repositorio de número: 437. Hora do término do download: 2020-03-31 03:57:31
+
+O repositório: data-science-from-scratch foi baixado (ou já estava baixado), ele é o repositorio de número: 438. Hora do término do download: 2020-03-31 03:57:34
+
+O repositório: albumentations foi baixado (ou já estava baixado), ele é o repositorio de número: 439. Hora do término do download: 2020-03-31 03:57:44
+
+O repositório: wait-for-it foi baixado (ou já estava baixado), ele é o repositorio de número: 440. Hora do término do download: 2020-03-31 03:57:46
+
+O repositório: featuretools foi baixado (ou já estava baixado), ele é o repositorio de número: 441. Hora do término do download: 2020-03-31 03:57:49
+
+O repositório: trape foi baixado (ou já estava baixado), ele é o repositorio de número: 442. Hora do término do download: 2020-03-31 03:57:52
+
+O repositório: django-extensions foi baixado (ou já estava baixado), ele é o repositorio de número: 443. Hora do término do download: 2020-03-31 03:57:54
+
+O repositório: PythonSpiderNotes foi baixado (ou já estava baixado), ele é o repositorio de número: 444. Hora do término do download: 2020-03-31 03:57:58
+
+O repositório: pkuseg-python foi baixado (ou já estava baixado), ele é o repositorio de número: 445. Hora do término do download: 2020-03-31 03:58:00
+
+O repositório: uncaptcha2 foi baixado (ou já estava baixado), ele é o repositorio de número: 446. Hora do término do download: 2020-03-31 03:58:02
+
+O repositório: autograd foi baixado (ou já estava baixado), ele é o repositorio de número: 447. Hora do término do download: 2020-03-31 03:58:06
+
+O repositório: Hasklig foi baixado (ou já estava baixado), ele é o repositorio de número: 448. Hora do término do download: 2020-03-31 03:58:11
+
+O repositório: UGATIT foi baixado (ou já estava baixado), ele é o repositorio de número: 449. Hora do término do download: 2020-03-31 03:58:15
+
+O repositório: docker-py foi baixado (ou já estava baixado), ele é o repositorio de número: 450. Hora do término do download: 2020-03-31 03:58:18
+
+O repositório: iScript foi baixado (ou já estava baixado), ele é o repositorio de número: 451. Hora do término do download: 2020-03-31 03:58:21
+
+O repositório: snownlp foi baixado (ou já estava baixado), ele é o repositorio de número: 452. Hora do término do download: 2020-03-31 03:58:30
+
+O repositório: ImageAI foi baixado (ou já estava baixado), ele é o repositorio de número: 453. Hora do término do download: 2020-03-31 03:58:37
+
+O repositório: speech_recognition foi baixado (ou já estava baixado), ele é o repositorio de número: 454. Hora do término do download: 2020-03-31 03:58:49
+
+O repositório: Ultra-Light-Fast-Generic-Face-Detector-1MB foi baixado (ou já estava baixado), ele é o repositorio de número: 455. Hora do término do download: 2020-03-31 03:58:54
+
+O repositório: gspread foi baixado (ou já estava baixado), ele é o repositorio de número: 456. Hora do término do download: 2020-03-31 03:58:56
+
+O repositório: truffleHog foi baixado (ou já estava baixado), ele é o repositorio de número: 457. Hora do término do download: 2020-03-31 03:58:57
+
+O repositório: MMdnn foi baixado (ou já estava baixado), ele é o repositorio de número: 458. Hora do término do download: 2020-03-31 03:59:02
+
+O repositório: pytorch-lightning foi baixado (ou já estava baixado), ele é o repositorio de número: 459. Hora do término do download: 2020-03-31 03:59:10
+
+O repositório: folium foi baixado (ou já estava baixado), ele é o repositorio de número: 460. Hora do término do download: 2020-03-31 03:59:22
+
+O repositório: modin foi baixado (ou já estava baixado), ele é o repositorio de número: 461. Hora do término do download: 2020-03-31 03:59:25
+
+O repositório: tensorboard foi baixado (ou já estava baixado), ele é o repositorio de número: 462. Hora do término do download: 2020-03-31 03:59:36
+
+O repositório: keras-rl foi baixado (ou já estava baixado), ele é o repositorio de número: 463. Hora do término do download: 2020-03-31 03:59:41
+
+O repositório: marshmallow foi baixado (ou já estava baixado), ele é o repositorio de número: 464. Hora do término do download: 2020-03-31 03:59:44
+
+O repositório: grip foi baixado (ou já estava baixado), ele é o repositorio de número: 465. Hora do término do download: 2020-03-31 03:59:46
+
+O repositório: Awesome-CoreML-Models foi baixado (ou já estava baixado), ele é o repositorio de número: 466. Hora do término do download: 2020-03-31 03:59:48
+
+O repositório: Sublist3r foi baixado (ou já estava baixado), ele é o repositorio de número: 467. Hora do término do download: 2020-03-31 03:59:50
+
+O repositório: pyston foi baixado (ou já estava baixado), ele é o repositorio de número: 468. Hora do término do download: 2020-03-31 03:59:58
+
+O repositório: streamlink foi baixado (ou já estava baixado), ele é o repositorio de número: 469. Hora do término do download: 2020-03-31 04:00:17
+
+O repositório: noteshrink foi baixado (ou já estava baixado), ele é o repositorio de número: 470. Hora do término do download: 2020-03-31 04:00:21
+
+O repositório: TensorFlow-World foi baixado (ou já estava baixado), ele é o repositorio de número: 471. Hora do término do download: 2020-03-31 04:00:25
+
+O repositório: cleverhans foi baixado (ou já estava baixado), ele é o repositorio de número: 472. Hora do término do download: 2020-03-31 04:00:28
+
+O repositório: stargan foi baixado (ou já estava baixado), ele é o repositorio de número: 473. Hora do término do download: 2020-03-31 04:00:32
+
+O repositório: spinningup foi baixado (ou já estava baixado), ele é o repositorio de número: 474. Hora do término do download: 2020-03-31 04:00:37
+
+O repositório: hyperopt foi baixado (ou já estava baixado), ele é o repositorio de número: 475. Hora do término do download: 2020-03-31 04:00:40
+
+O repositório: rtv foi baixado (ou já estava baixado), ele é o repositorio de número: 476. Hora do término do download: 2020-03-31 04:00:46
+
+O repositório: package_control foi baixado (ou já estava baixado), ele é o repositorio de número: 477. Hora do término do download: 2020-03-31 04:00:49
+
+O repositório: ChatBotCourse foi baixado (ou já estava baixado), ele é o repositorio de número: 478. Hora do término do download: 2020-03-31 04:00:54
+
+O repositório: machine_learning_examples foi baixado (ou já estava baixado), ele é o repositorio de número: 479. Hora do término do download: 2020-03-31 04:00:58
+
+O repositório: robotframework foi baixado (ou já estava baixado), ele é o repositorio de número: 480. Hora do término do download: 2020-03-31 04:01:11
+
+O repositório: learn-python3 foi baixado (ou já estava baixado), ele é o repositorio de número: 481. Hora do término do download: 2020-03-31 04:01:16
+
+O repositório: scrapy-redis foi baixado (ou já estava baixado), ele é o repositorio de número: 482. Hora do término do download: 2020-03-31 04:01:18
+
+O repositório: saws foi baixado (ou já estava baixado), ele é o repositorio de número: 483. Hora do término do download: 2020-03-31 04:01:21
+
+O repositório: WechatSogou foi baixado (ou já estava baixado), ele é o repositorio de número: 484. Hora do término do download: 2020-03-31 04:01:23
+
+O repositório: ipv6-hosts foi baixado (ou já estava baixado), ele é o repositorio de número: 485. Hora do término do download: 2020-03-31 04:01:27
+
+O repositório: setup.py foi baixado (ou já estava baixado), ele é o repositorio de número: 486. Hora do término do download: 2020-03-31 04:01:28
+
+O repositório: pix2pixHD foi baixado (ou já estava baixado), ele é o repositorio de número: 487. Hora do término do download: 2020-03-31 04:01:35
+
+O repositório: dgl foi baixado (ou já estava baixado), ele é o repositorio de número: 488. Hora do término do download: 2020-03-31 04:01:38
+
+O repositório: faust foi baixado (ou já estava baixado), ele é o repositorio de número: 489. Hora do término do download: 2020-03-31 04:01:44
+
+O repositório: discord.py foi baixado (ou já estava baixado), ele é o repositorio de número: 490. Hora do término do download: 2020-03-31 04:01:48
+
+O repositório: auto-sklearn foi baixado (ou já estava baixado), ele é o repositorio de número: 491. Hora do término do download: 2020-03-31 04:01:52
+
+O repositório: gcn foi baixado (ou já estava baixado), ele é o repositorio de número: 492. Hora do término do download: 2020-03-31 04:01:56
+
+O repositório: impacket foi baixado (ou já estava baixado), ele é o repositorio de número: 493. Hora do término do download: 2020-03-31 04:01:59
+
+O repositório: PathPicker foi baixado (ou já estava baixado), ele é o repositorio de número: 494. Hora do término do download: 2020-03-31 04:02:03
+
+O repositório: acme-tiny foi baixado (ou já estava baixado), ele é o repositorio de número: 495. Hora do término do download: 2020-03-31 04:02:05
+
+O repositório: jasper-client foi baixado (ou já estava baixado), ele é o repositorio de número: 496. Hora do término do download: 2020-03-31 04:02:07
+
+O repositório: lbry-sdk foi baixado (ou já estava baixado), ele é o repositorio de número: 497. Hora do término do download: 2020-03-31 04:02:12
+
+O repositório: labelme foi baixado (ou já estava baixado), ele é o repositorio de número: 498. Hora do término do download: 2020-03-31 04:02:19
+
+O repositório: haipproxy foi baixado (ou já estava baixado), ele é o repositorio de número: 499. Hora do término do download: 2020-03-31 04:02:21
+
+O repositório: models foi baixado (ou já estava baixado), ele é o repositorio de número: 500. Hora do término do download: 2020-03-31 04:02:51
+
+O repositório: dumb-init foi baixado (ou já estava baixado), ele é o repositorio de número: 501. Hora do término do download: 2020-03-31 04:02:57
+
+O repositório: buildbot foi baixado (ou já estava baixado), ele é o repositorio de número: 502. Hora do término do download: 2020-03-31 04:03:07
+
+O repositório: jedi foi baixado (ou já estava baixado), ele é o repositorio de número: 503. Hora do término do download: 2020-03-31 04:03:14
+
+O repositório: googler foi baixado (ou já estava baixado), ele é o repositorio de número: 504. Hora do término do download: 2020-03-31 04:03:18
+
+O repositório: xadmin foi baixado (ou já estava baixado), ele é o repositorio de número: 505. Hora do término do download: 2020-03-31 04:03:27
+
+O repositório: imbalanced-learn foi baixado (ou já estava baixado), ele é o repositorio de número: 506. Hora do término do download: 2020-03-31 04:03:31
+
+O repositório: graph_nets foi baixado (ou já estava baixado), ele é o repositorio de número: 507. Hora do término do download: 2020-03-31 04:03:34
+
+O repositório: channels foi baixado (ou já estava baixado), ele é o repositorio de número: 508. Hora do término do download: 2020-03-31 04:03:36
+
+O repositório: youtube-dl-gui foi baixado (ou já estava baixado), ele é o repositorio de número: 509. Hora do término do download: 2020-03-31 04:03:39
+
+O repositório: subsync foi baixado (ou já estava baixado), ele é o repositorio de número: 510. Hora do término do download: 2020-03-31 04:03:41
+
+O repositório: spiderfoot foi baixado (ou já estava baixado), ele é o repositorio de número: 511. Hora do término do download: 2020-03-31 04:03:44
+
+O repositório: weibospider foi baixado (ou já estava baixado), ele é o repositorio de número: 512. Hora do término do download: 2020-03-31 04:03:54
+
+O repositório: Stream-Framework foi baixado (ou já estava baixado), ele é o repositorio de número: 513. Hora do término do download: 2020-03-31 04:03:57
+
+O repositório: pydub foi baixado (ou já estava baixado), ele é o repositorio de número: 514. Hora do término do download: 2020-03-31 04:04:02
+
+O repositório: httpx foi baixado (ou já estava baixado), ele é o repositorio de número: 515. Hora do término do download: 2020-03-31 04:04:05
+
+O repositório: seq2seq-couplet foi baixado (ou já estava baixado), ele é o repositorio de número: 516. Hora do término do download: 2020-03-31 04:04:06
+
+O repositório: hypothesis foi baixado (ou já estava baixado), ele é o repositorio de número: 517. Hora do término do download: 2020-03-31 04:04:12
+
+O repositório: augmented-traffic-control foi baixado (ou já estava baixado), ele é o repositorio de número: 518. Hora do término do download: 2020-03-31 04:04:17
+
+O repositório: knowledge-repo foi baixado (ou já estava baixado), ele é o repositorio de número: 519. Hora do término do download: 2020-03-31 04:04:19
+
+O repositório: OctoPrint foi baixado (ou já estava baixado), ele é o repositorio de número: 520. Hora do término do download: 2020-03-31 04:04:26
+
+O repositório: flashtext foi baixado (ou já estava baixado), ele é o repositorio de número: 521. Hora do término do download: 2020-03-31 04:04:29
+
+O repositório: django-oscar foi baixado (ou já estava baixado), ele é o repositorio de número: 522. Hora do término do download: 2020-03-31 04:04:41
+
+O repositório: csvkit foi baixado (ou já estava baixado), ele é o repositorio de número: 523. Hora do término do download: 2020-03-31 04:04:48
+
+O repositório: sketch-code foi baixado (ou já estava baixado), ele é o repositorio de número: 524. Hora do término do download: 2020-03-31 04:04:52
+
+O repositório: jrnl foi baixado (ou já estava baixado), ele é o repositorio de número: 525. Hora do término do download: 2020-03-31 04:04:55
+
+O repositório: pdfminer foi baixado (ou já estava baixado), ele é o repositorio de número: 526. Hora do término do download: 2020-03-31 04:04:58
+
+O repositório: flower foi baixado (ou já estava baixado), ele é o repositorio de número: 527. Hora do término do download: 2020-03-31 04:05:00
+
+O repositório: mycroft-core foi baixado (ou já estava baixado), ele é o repositorio de número: 528. Hora do término do download: 2020-03-31 04:05:15
+
+O repositório: clusterfuzz foi baixado (ou já estava baixado), ele é o repositorio de número: 529. Hora do término do download: 2020-03-31 04:05:25
+
+O repositório: flask-admin foi baixado (ou já estava baixado), ele é o repositorio de número: 530. Hora do término do download: 2020-03-31 04:05:32
+
+O repositório: Minecraft foi baixado (ou já estava baixado), ele é o repositorio de número: 531. Hora do término do download: 2020-03-31 04:05:35
+
+O repositório: tiler foi baixado (ou já estava baixado), ele é o repositorio de número: 532. Hora do término do download: 2020-03-31 04:05:40
+
+O repositório: d2l-en foi baixado (ou já estava baixado), ele é o repositorio de número: 533. Hora do término do download: 2020-03-31 04:05:57
+
+O repositório: angr foi baixado (ou já estava baixado), ele é o repositorio de número: 534. Hora do término do download: 2020-03-31 04:06:04
+
+O repositório: huxley foi baixado (ou já estava baixado), ele é o repositorio de número: 535. Hora do término do download: 2020-03-31 04:06:09
+
+O repositório: pip-tools foi baixado (ou já estava baixado), ele é o repositorio de número: 536. Hora do término do download: 2020-03-31 04:06:12
+
+O repositório: pidcat foi baixado (ou já estava baixado), ele é o repositorio de número: 537. Hora do término do download: 2020-03-31 04:06:14
+
+O repositório: DeepPavlov foi baixado (ou já estava baixado), ele é o repositorio de número: 538. Hora do término do download: 2020-03-31 04:06:20
+
+O repositório: commonmark-spec foi baixado (ou já estava baixado), ele é o repositorio de número: 539. Hora do término do download: 2020-03-31 04:06:23
+
+O repositório: pre-commit foi baixado (ou já estava baixado), ele é o repositorio de número: 540. Hora do término do download: 2020-03-31 04:06:26
+
+O repositório: python_koans foi baixado (ou já estava baixado), ele é o repositorio de número: 541. Hora do término do download: 2020-03-31 04:06:28
+
+O repositório: AutoSploit foi baixado (ou já estava baixado), ele é o repositorio de número: 542. Hora do término do download: 2020-03-31 04:06:31
+
+O repositório: awesome-honeypots foi baixado (ou já estava baixado), ele é o repositorio de número: 543. Hora do término do download: 2020-03-31 04:06:32
+
+O repositório: meshroom foi baixado (ou já estava baixado), ele é o repositorio de número: 544. Hora do término do download: 2020-03-31 04:06:35
+
+O repositório: asyncpg foi baixado (ou já estava baixado), ele é o repositorio de número: 545. Hora do término do download: 2020-03-31 04:06:38
+
+O repositório: bips foi baixado (ou já estava baixado), ele é o repositorio de número: 546. Hora do término do download: 2020-03-31 04:06:41
+
+O repositório: troposphere foi baixado (ou já estava baixado), ele é o repositorio de número: 547. Hora do término do download: 2020-03-31 04:06:44
+
+O repositório: hue apresentou problemas na leitura, ele era o repositorio de número: 548. Hora do erro: 2020-03-31 04:07:31
+
+O repositório: httpstat foi baixado (ou já estava baixado), ele é o repositorio de número: 549. Hora do término do download: 2020-03-31 04:07:39
+
+O repositório: persepolis foi baixado (ou já estava baixado), ele é o repositorio de número: 550. Hora do término do download: 2020-03-31 04:07:44
+
+O repositório: mezzanine foi baixado (ou já estava baixado), ele é o repositorio de número: 551. Hora do término do download: 2020-03-31 04:07:51
+
+O repositório: trax foi baixado (ou já estava baixado), ele é o repositorio de número: 552. Hora do término do download: 2020-03-31 04:07:55
+
+O repositório: lihang_book_algorithm foi baixado (ou já estava baixado), ele é o repositorio de número: 553. Hora do término do download: 2020-03-31 04:08:01
+
+O repositório: opendrop foi baixado (ou já estava baixado), ele é o repositorio de número: 554. Hora do término do download: 2020-03-31 04:08:03
+
+O repositório: PyTorch-YOLOv3 foi baixado (ou já estava baixado), ele é o repositorio de número: 555. Hora do término do download: 2020-03-31 04:08:07
+
+O repositório: OpenNMT-py foi baixado (ou já estava baixado), ele é o repositorio de número: 556. Hora do término do download: 2020-03-31 04:08:20
+
+O repositório: watchdog foi baixado (ou já estava baixado), ele é o repositorio de número: 557. Hora do término do download: 2020-03-31 04:08:22
+
+O repositório: serenata-de-amor foi baixado (ou já estava baixado), ele é o repositorio de número: 558. Hora do término do download: 2020-03-31 04:08:31
+
+O repositório: cupy foi baixado (ou já estava baixado), ele é o repositorio de número: 559. Hora do término do download: 2020-03-31 04:08:37
+
+O repositório: pycodestyle foi baixado (ou já estava baixado), ele é o repositorio de número: 560. Hora do término do download: 2020-03-31 04:08:41
+
+O repositório: peda foi baixado (ou já estava baixado), ele é o repositorio de número: 561. Hora do término do download: 2020-03-31 04:08:43
+
+O repositório: learning-to-learn foi baixado (ou já estava baixado), ele é o repositorio de número: 562. Hora do término do download: 2020-03-31 04:08:44
+
+O repositório: python-docs-samples foi baixado (ou já estava baixado), ele é o repositorio de número: 563. Hora do término do download: 2020-03-31 04:08:52
+
+O repositório: security_monkey foi baixado (ou já estava baixado), ele é o repositorio de número: 564. Hora do término do download: 2020-03-31 04:09:04
+
+O repositório: BayesianOptimization foi baixado (ou já estava baixado), ele é o repositorio de número: 565. Hora do término do download: 2020-03-31 04:09:10
+
+O repositório: pygorithm foi baixado (ou já estava baixado), ele é o repositorio de número: 566. Hora do término do download: 2020-03-31 04:09:13
+
+O repositório: kinto foi baixado (ou já estava baixado), ele é o repositorio de número: 567. Hora do término do download: 2020-03-31 04:09:19
+
+O repositório: DeepLearningTutorials foi baixado (ou já estava baixado), ele é o repositorio de número: 568. Hora do término do download: 2020-03-31 04:09:24
+
+O repositório: isso foi baixado (ou já estava baixado), ele é o repositorio de número: 569. Hora do término do download: 2020-03-31 04:09:26
+
+O repositório: Surprise foi baixado (ou já estava baixado), ele é o repositorio de número: 570. Hora do término do download: 2020-03-31 04:09:31
+
+O repositório: research foi baixado (ou já estava baixado), ele é o repositorio de número: 571. Hora do término do download: 2020-03-31 04:09:37
+
+O repositório: GitGutter foi baixado (ou já estava baixado), ele é o repositorio de número: 572. Hora do término do download: 2020-03-31 04:09:39
+
+O repositório: byob foi baixado (ou já estava baixado), ele é o repositorio de número: 573. Hora do término do download: 2020-03-31 04:09:41
+
+O repositório: platformio-core foi baixado (ou já estava baixado), ele é o repositorio de número: 574. Hora do término do download: 2020-03-31 04:09:47
+
+O repositório: DataSciencePython foi baixado (ou já estava baixado), ele é o repositorio de número: 575. Hora do término do download: 2020-03-31 04:09:49
+
+O repositório: tensorflow_practice foi baixado (ou já estava baixado), ele é o repositorio de número: 576. Hora do término do download: 2020-03-31 04:10:01
+
+O repositório: xmltodict foi baixado (ou já estava baixado), ele é o repositorio de número: 577. Hora do término do download: 2020-03-31 04:10:03
+
+O repositório: nlp-recipes foi baixado (ou já estava baixado), ele é o repositorio de número: 578. Hora do término do download: 2020-03-31 04:10:09
+
+O repositório: uds foi baixado (ou já estava baixado), ele é o repositorio de número: 579. Hora do término do download: 2020-03-31 04:10:12
+
+O repositório: electrum foi baixado (ou já estava baixado), ele é o repositorio de número: 580. Hora do término do download: 2020-03-31 04:10:19
+
+O repositório: Deep-Learning-21-Examples foi baixado (ou já estava baixado), ele é o repositorio de número: 581. Hora do término do download: 2020-03-31 04:10:35
+
+O repositório: english-words foi baixado (ou já estava baixado), ele é o repositorio de número: 582. Hora do término do download: 2020-03-31 04:10:44
+
+O repositório: neon foi baixado (ou já estava baixado), ele é o repositorio de número: 583. Hora do término do download: 2020-03-31 04:10:47
+
+O repositório: rockstar foi baixado (ou já estava baixado), ele é o repositorio de número: 584. Hora do término do download: 2020-03-31 04:10:50
+
+O repositório: twisted foi baixado (ou já estava baixado), ele é o repositorio de número: 585. Hora do término do download: 2020-03-31 04:11:02
+
+O repositório: onionshare foi baixado (ou já estava baixado), ele é o repositorio de número: 586. Hora do término do download: 2020-03-31 04:11:11
+
+O repositório: django-crispy-forms foi baixado (ou já estava baixado), ele é o repositorio de número: 587. Hora do término do download: 2020-03-31 04:11:14
+
+O repositório: discover-flask foi baixado (ou já estava baixado), ele é o repositorio de número: 588. Hora do término do download: 2020-03-31 04:11:16
+
+O repositório: pendulum foi baixado (ou já estava baixado), ele é o repositorio de número: 589. Hora do término do download: 2020-03-31 04:11:18
+
+O repositório: example-code foi baixado (ou já estava baixado), ele é o repositorio de número: 590. Hora do término do download: 2020-03-31 04:11:22
+
+O repositório: attention-is-all-you-need-pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 591. Hora do término do download: 2020-03-31 04:11:25
+
+O repositório: dataset foi baixado (ou já estava baixado), ele é o repositorio de número: 592. Hora do término do download: 2020-03-31 04:11:27
+
+O repositório: edgedb foi baixado (ou já estava baixado), ele é o repositorio de número: 593. Hora do término do download: 2020-03-31 04:11:32
+
+O repositório: pytorch-cnn-visualizations foi baixado (ou já estava baixado), ele é o repositorio de número: 594. Hora do término do download: 2020-03-31 04:11:36
+
+O repositório: AlphaPose foi baixado (ou já estava baixado), ele é o repositorio de número: 595. Hora do término do download: 2020-03-31 04:11:43
+
+O repositório: dataset foi baixado (ou já estava baixado), ele é o repositorio de número: 596. Hora do término do download: 2020-03-31 04:11:46
+
+O repositório: pywal foi baixado (ou já estava baixado), ele é o repositorio de número: 597. Hora do término do download: 2020-03-31 04:11:48
+
+O repositório: pywonderland foi baixado (ou já estava baixado), ele é o repositorio de número: 598. Hora do término do download: 2020-03-31 04:11:51
+
+O repositório: umap foi baixado (ou já estava baixado), ele é o repositorio de número: 599. Hora do término do download: 2020-03-31 04:11:56
+
+O repositório: livestreamer foi baixado (ou já estava baixado), ele é o repositorio de número: 600. Hora do término do download: 2020-03-31 04:11:58
+
+O repositório: dl-docker foi baixado (ou já estava baixado), ele é o repositorio de número: 601. Hora do término do download: 2020-03-31 04:12:01
+
+O repositório: snorkel foi baixado (ou já estava baixado), ele é o repositorio de número: 602. Hora do término do download: 2020-03-31 04:12:24
+
+O repositório: shadowbroker foi baixado (ou já estava baixado), ele é o repositorio de número: 603. Hora do término do download: 2020-03-31 04:12:48
+
+O repositório: kafka-python foi baixado (ou já estava baixado), ele é o repositorio de número: 604. Hora do término do download: 2020-03-31 04:13:02
+
+O repositório: st2 foi baixado (ou já estava baixado), ele é o repositorio de número: 605. Hora do término do download: 2020-03-31 04:13:10
+
+O repositório: Lasagne foi baixado (ou já estava baixado), ele é o repositorio de número: 606. Hora do término do download: 2020-03-31 04:13:18
+
+O repositório: PRNet foi baixado (ou já estava baixado), ele é o repositorio de número: 607. Hora do término do download: 2020-03-31 04:13:21
+
+O repositório: stanza foi baixado (ou já estava baixado), ele é o repositorio de número: 608. Hora do término do download: 2020-03-31 04:13:23
+
+O repositório: IPProxyPool foi baixado (ou já estava baixado), ele é o repositorio de número: 609. Hora do término do download: 2020-03-31 04:13:27
+
+O repositório: MachineLearning foi baixado (ou já estava baixado), ele é o repositorio de número: 610. Hora do término do download: 2020-03-31 04:13:29
+
+O repositório: fuckitpy foi baixado (ou já estava baixado), ele é o repositorio de número: 611. Hora do término do download: 2020-03-31 04:13:31
+
+O repositório: deep-learning-roadmap foi baixado (ou já estava baixado), ele é o repositorio de número: 612. Hora do término do download: 2020-03-31 04:13:36
+
+O repositório: ntfy foi baixado (ou já estava baixado), ele é o repositorio de número: 613. Hora do término do download: 2020-03-31 04:13:39
+
+O repositório: starlette foi baixado (ou já estava baixado), ele é o repositorio de número: 614. Hora do término do download: 2020-03-31 04:13:41
+
+O repositório: DrQA foi baixado (ou já estava baixado), ele é o repositorio de número: 615. Hora do término do download: 2020-03-31 04:13:43
+
+O repositório: conan foi baixado (ou já estava baixado), ele é o repositorio de número: 616. Hora do término do download: 2020-03-31 04:13:48
+
+O repositório: rqalpha foi baixado (ou já estava baixado), ele é o repositorio de número: 617. Hora do término do download: 2020-03-31 04:13:56
+
+O repositório: face-alignment foi baixado (ou já estava baixado), ele é o repositorio de número: 618. Hora do término do download: 2020-03-31 04:13:58
+
+O repositório: tablib foi baixado (ou já estava baixado), ele é o repositorio de número: 619. Hora do término do download: 2020-03-31 04:14:00
+
+O repositório: Tensorflow-Tutorial foi baixado (ou já estava baixado), ele é o repositorio de número: 620. Hora do término do download: 2020-03-31 04:14:06
+
+O repositório: Airtest foi baixado (ou já estava baixado), ele é o repositorio de número: 621. Hora do término do download: 2020-03-31 04:14:15
+
+O repositório: statuspage foi baixado (ou já estava baixado), ele é o repositorio de número: 622. Hora do término do download: 2020-03-31 04:14:17
+
+O repositório: EfficientNet-PyTorch foi baixado (ou já estava baixado), ele é o repositorio de número: 623. Hora do término do download: 2020-03-31 04:14:19
+
+O repositório: CapsNet-Tensorflow foi baixado (ou já estava baixado), ele é o repositorio de número: 624. Hora do término do download: 2020-03-31 04:14:21
+
+O repositório: CouchPotatoServer foi baixado (ou já estava baixado), ele é o repositorio de número: 625. Hora do término do download: 2020-03-31 04:14:26
+
+O repositório: gluon-cv foi baixado (ou já estava baixado), ele é o repositorio de número: 626. Hora do término do download: 2020-03-31 04:14:35
+
+O repositório: PokemonGo-Bot foi baixado (ou já estava baixado), ele é o repositorio de número: 627. Hora do término do download: 2020-03-31 04:14:41
+
+O repositório: redis-rdb-tools foi baixado (ou já estava baixado), ele é o repositorio de número: 628. Hora do término do download: 2020-03-31 04:14:43
+
+O repositório: xonsh foi baixado (ou já estava baixado), ele é o repositorio de número: 629. Hora do término do download: 2020-03-31 04:14:47
+
+O repositório: textgenrnn foi baixado (ou já estava baixado), ele é o repositorio de número: 630. Hora do término do download: 2020-03-31 04:14:50
+
+O repositório: storm foi baixado (ou já estava baixado), ele é o repositorio de número: 631. Hora do término do download: 2020-03-31 04:14:52
+
+O repositório: stellar foi baixado (ou já estava baixado), ele é o repositorio de número: 632. Hora do término do download: 2020-03-31 04:14:54
+
+O repositório: django-tastypie foi baixado (ou já estava baixado), ele é o repositorio de número: 633. Hora do término do download: 2020-03-31 04:14:57
+
+O repositório: easytrader foi baixado (ou já estava baixado), ele é o repositorio de número: 634. Hora do término do download: 2020-03-31 04:15:00
+
+O repositório: better-exceptions foi baixado (ou já estava baixado), ele é o repositorio de número: 635. Hora do término do download: 2020-03-31 04:15:02
+
+O repositório: keras-retinanet foi baixado (ou já estava baixado), ele é o repositorio de número: 636. Hora do término do download: 2020-03-31 04:15:05
+
+O repositório: dirsearch foi baixado (ou já estava baixado), ele é o repositorio de número: 637. Hora do término do download: 2020-03-31 04:15:09
+
+O repositório: CenterNet foi baixado (ou já estava baixado), ele é o repositorio de número: 638. Hora do término do download: 2020-03-31 04:15:13
+
+O repositório: apex foi baixado (ou já estava baixado), ele é o repositorio de número: 639. Hora do término do download: 2020-03-31 04:15:16
+
+O repositório: stylegan2 foi baixado (ou já estava baixado), ele é o repositorio de número: 640. Hora do término do download: 2020-03-31 04:15:21
+
+O repositório: pyautogui foi baixado (ou já estava baixado), ele é o repositorio de número: 641. Hora do término do download: 2020-03-31 04:15:24
+
+O repositório: vprof foi baixado (ou já estava baixado), ele é o repositorio de número: 642. Hora do término do download: 2020-03-31 04:15:26
+
+O repositório: twint foi baixado (ou já estava baixado), ele é o repositorio de número: 643. Hora do término do download: 2020-03-31 04:15:28
+
+O repositório: scikit-image foi baixado (ou já estava baixado), ele é o repositorio de número: 644. Hora do término do download: 2020-03-31 04:15:36
+
+O repositório: arxiv-sanity-preserver foi baixado (ou já estava baixado), ele é o repositorio de número: 645. Hora do término do download: 2020-03-31 04:15:41
+
+O repositório: iGAN foi baixado (ou já estava baixado), ele é o repositorio de número: 646. Hora do término do download: 2020-03-31 04:15:44
+
+O repositório: pyodide foi baixado (ou já estava baixado), ele é o repositorio de número: 647. Hora do término do download: 2020-03-31 04:15:47
+
+O repositório: Flask-SocketIO foi baixado (ou já estava baixado), ele é o repositorio de número: 648. Hora do término do download: 2020-03-31 04:15:49
+
+O repositório: mimic foi baixado (ou já estava baixado), ele é o repositorio de número: 649. Hora do término do download: 2020-03-31 04:15:50
+
+O repositório: ptpython foi baixado (ou já estava baixado), ele é o repositorio de número: 650. Hora do término do download: 2020-03-31 04:15:52
+
+O repositório: qqbot foi baixado (ou já estava baixado), ele é o repositorio de número: 651. Hora do término do download: 2020-03-31 04:15:55
+
+O repositório: theHarvester foi baixado (ou já estava baixado), ele é o repositorio de número: 652. Hora do término do download: 2020-03-31 04:15:57
+
+O repositório: backtrader foi baixado (ou já estava baixado), ele é o repositorio de número: 653. Hora do término do download: 2020-03-31 04:16:02
+
+O repositório: ggpy foi baixado (ou já estava baixado), ele é o repositorio de número: 654. Hora do término do download: 2020-03-31 04:16:14
+
+O repositório: tensorflow-generative-model-collections foi baixado (ou já estava baixado), ele é o repositorio de número: 655. Hora do término do download: 2020-03-31 04:16:17
+
+O repositório: WeRoBot foi baixado (ou já estava baixado), ele é o repositorio de número: 656. Hora do término do download: 2020-03-31 04:16:20
+
+O repositório: iOS-DeviceSupport foi baixado (ou já estava baixado), ele é o repositorio de número: 657. Hora do término do download: 2020-03-31 04:17:08
+
+O repositório: maltrail foi baixado (ou já estava baixado), ele é o repositorio de número: 658. Hora do término do download: 2020-03-31 04:17:31
+
+O repositório: volatility foi baixado (ou já estava baixado), ele é o repositorio de número: 659. Hora do término do download: 2020-03-31 04:17:36
+
+O repositório: conda foi baixado (ou já estava baixado), ele é o repositorio de número: 660. Hora do término do download: 2020-03-31 04:17:49
+
+O repositório: colornet foi baixado (ou já estava baixado), ele é o repositorio de número: 661. Hora do término do download: 2020-03-31 04:18:06
+
+O repositório: multi-v2ray foi baixado (ou já estava baixado), ele é o repositorio de número: 662. Hora do término do download: 2020-03-31 04:18:08
+
+O repositório: sync-engine foi baixado (ou já estava baixado), ele é o repositorio de número: 663. Hora do término do download: 2020-03-31 04:18:12
+
+O repositório: deap foi baixado (ou já estava baixado), ele é o repositorio de número: 664. Hora do término do download: 2020-03-31 04:18:19
+
+O repositório: django-cors-headers foi baixado (ou já estava baixado), ele é o repositorio de número: 665. Hora do término do download: 2020-03-31 04:18:22
+
+O repositório: PySimpleGUI foi baixado (ou já estava baixado), ele é o repositorio de número: 666. Hora do término do download: 2020-03-31 04:18:33
+
+O repositório: pytorch-examples foi baixado (ou já estava baixado), ele é o repositorio de número: 667. Hora do término do download: 2020-03-31 04:18:38
+
+O repositório: virtualenv foi baixado (ou já estava baixado), ele é o repositorio de número: 668. Hora do término do download: 2020-03-31 04:18:46
+
+O repositório: buku foi baixado (ou já estava baixado), ele é o repositorio de número: 669. Hora do término do download: 2020-03-31 04:18:49
+
+O repositório: deep-visualization-toolbox foi baixado (ou já estava baixado), ele é o repositorio de número: 670. Hora do término do download: 2020-03-31 04:18:51
+
+O repositório: openstack foi baixado (ou já estava baixado), ele é o repositorio de número: 671. Hora do término do download: 2020-03-31 04:19:07
+
+O repositório: Telethon foi baixado (ou já estava baixado), ele é o repositorio de número: 672. Hora do término do download: 2020-03-31 04:19:10
+
+O repositório: responder foi baixado (ou já estava baixado), ele é o repositorio de número: 673. Hora do término do download: 2020-03-31 04:19:14
+
+O repositório: roboto foi baixado (ou já estava baixado), ele é o repositorio de número: 674. Hora do término do download: 2020-03-31 04:19:30
+
+O repositório: WeasyPrint foi baixado (ou já estava baixado), ele é o repositorio de número: 675. Hora do término do download: 2020-03-31 04:19:38
+
+O repositório: ssd.pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 676. Hora do término do download: 2020-03-31 04:19:58
+
+O repositório: robobrowser foi baixado (ou já estava baixado), ele é o repositorio de número: 677. Hora do término do download: 2020-03-31 04:20:00
+
+O repositório: TensorFlowOnSpark foi baixado (ou já estava baixado), ele é o repositorio de número: 678. Hora do término do download: 2020-03-31 04:20:03
+
+O repositório: MechanicalSoup foi baixado (ou já estava baixado), ele é o repositorio de número: 679. Hora do término do download: 2020-03-31 04:20:06
+
+O repositório: spotify-downloader foi baixado (ou já estava baixado), ele é o repositorio de número: 680. Hora do término do download: 2020-03-31 04:20:08
+
+O repositório: bigchaindb foi baixado (ou já estava baixado), ele é o repositorio de número: 681. Hora do término do download: 2020-03-31 04:20:11
+
+O repositório: google-api-python-client foi baixado (ou já estava baixado), ele é o repositorio de número: 682. Hora do término do download: 2020-03-31 04:20:19
+
+O repositório: instagram-scraper foi baixado (ou já estava baixado), ele é o repositorio de número: 683. Hora do término do download: 2020-03-31 04:20:22
+
+O repositório: Pokemon-Terminal foi baixado (ou já estava baixado), ele é o repositorio de número: 684. Hora do término do download: 2020-03-31 04:20:30
+
+O repositório: AidLearning-FrameWork foi baixado (ou já estava baixado), ele é o repositorio de número: 685. Hora do término do download: 2020-03-31 04:20:38
+
+O repositório: grr foi baixado (ou já estava baixado), ele é o repositorio de número: 686. Hora do término do download: 2020-03-31 04:20:55
+
+O repositório: moto foi baixado (ou já estava baixado), ele é o repositorio de número: 687. Hora do término do download: 2020-03-31 04:21:00
+
+O repositório: hy foi baixado (ou já estava baixado), ele é o repositorio de número: 688. Hora do término do download: 2020-03-31 04:21:06
+
+O repositório: librosa foi baixado (ou já estava baixado), ele é o repositorio de número: 689. Hora do término do download: 2020-03-31 04:22:09
+
+O repositório: image-analogies foi baixado (ou já estava baixado), ele é o repositorio de número: 690. Hora do término do download: 2020-03-31 04:22:12
+
+O repositório: sqlalchemy foi baixado (ou já estava baixado), ele é o repositorio de número: 691. Hora do término do download: 2020-03-31 04:22:26
+
+O repositório: Learning-to-See-in-the-Dark foi baixado (ou já estava baixado), ele é o repositorio de número: 692. Hora do término do download: 2020-03-31 04:22:31
+
+O repositório: ta-lib foi baixado (ou já estava baixado), ele é o repositorio de número: 693. Hora do término do download: 2020-03-31 04:22:34
+
+O repositório: learn-python foi baixado (ou já estava baixado), ele é o repositorio de número: 694. Hora do término do download: 2020-03-31 04:22:36
+
+O repositório: line_profiler foi baixado (ou já estava baixado), ele é o repositorio de número: 695. Hora do término do download: 2020-03-31 04:22:38
+
+O repositório: instabot foi baixado (ou já estava baixado), ele é o repositorio de número: 696. Hora do término do download: 2020-03-31 04:22:42
+
+O repositório: nameko foi baixado (ou já estava baixado), ele é o repositorio de número: 697. Hora do término do download: 2020-03-31 04:22:46
+
+O repositório: RxPY foi baixado (ou já estava baixado), ele é o repositorio de número: 698. Hora do término do download: 2020-03-31 04:22:49
+
+O repositório: QUANTAXIS foi baixado (ou já estava baixado), ele é o repositorio de número: 699. Hora do término do download: 2020-03-31 04:23:04
+
+O repositório: ffmpeg-python foi baixado (ou já estava baixado), ele é o repositorio de número: 700. Hora do término do download: 2020-03-31 04:23:06
+
+O repositório: Eel foi baixado (ou já estava baixado), ele é o repositorio de número: 701. Hora do término do download: 2020-03-31 04:48:27
+
+O repositório: awslogs foi baixado (ou já estava baixado), ele é o repositorio de número: 702. Hora do término do download: 2020-03-31 04:48:29
+
+O repositório: tinydb foi baixado (ou já estava baixado), ele é o repositorio de número: 703. Hora do término do download: 2020-03-31 04:48:31
+
+O repositório: BERT-pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 704. Hora do término do download: 2020-03-31 04:48:33
+
+O repositório: jupytext foi baixado (ou já estava baixado), ele é o repositorio de número: 705. Hora do término do download: 2020-03-31 04:48:38
+
+O repositório: awesome-math foi baixado (ou já estava baixado), ele é o repositorio de número: 706. Hora do término do download: 2020-03-31 04:48:41
+
+O repositório: speech-to-text-wavenet foi baixado (ou já estava baixado), ele é o repositorio de número: 707. Hora do término do download: 2020-03-31 04:48:42
+
+O repositório: CrackMapExec foi baixado (ou já estava baixado), ele é o repositorio de número: 708. Hora do término do download: 2020-03-31 04:48:45
+
+O repositório: pyramid foi baixado (ou já estava baixado), ele é o repositorio de número: 709. Hora do término do download: 2020-03-31 04:48:52
+
+O repositório: Cactus foi baixado (ou já estava baixado), ele é o repositorio de número: 710. Hora do término do download: 2020-03-31 04:48:56
+
+O repositório: grequests foi baixado (ou já estava baixado), ele é o repositorio de número: 711. Hora do término do download: 2020-03-31 04:48:59
+
+O repositório: codemod foi baixado (ou já estava baixado), ele é o repositorio de número: 712. Hora do término do download: 2020-03-31 04:49:01
+
+O repositório: cvat foi baixado (ou já estava baixado), ele é o repositorio de número: 713. Hora do término do download: 2020-03-31 04:49:12
+
+O repositório: proselint foi baixado (ou já estava baixado), ele é o repositorio de número: 714. Hora do término do download: 2020-03-31 04:49:17
+
+O repositório: autopep8 foi baixado (ou já estava baixado), ele é o repositorio de número: 715. Hora do término do download: 2020-03-31 04:49:21
+
+O repositório: PyGithub foi baixado (ou já estava baixado), ele é o repositorio de número: 716. Hora do término do download: 2020-03-31 04:49:26
+
+O repositório: Tautulli foi baixado (ou já estava baixado), ele é o repositorio de número: 717. Hora do término do download: 2020-03-31 04:49:39
+
+O repositório: mininet foi baixado (ou já estava baixado), ele é o repositorio de número: 718. Hora do término do download: 2020-03-31 04:49:46
+
+O repositório: guake foi baixado (ou já estava baixado), ele é o repositorio de número: 719. Hora do término do download: 2020-03-31 04:49:50
+
+O repositório: tf-faster-rcnn foi baixado (ou já estava baixado), ele é o repositorio de número: 720. Hora do término do download: 2020-03-31 04:49:53
+
+O repositório: weight-loss foi baixado (ou já estava baixado), ele é o repositorio de número: 721. Hora do término do download: 2020-03-31 04:49:55
+
+O repositório: gmvault foi baixado (ou já estava baixado), ele é o repositorio de número: 722. Hora do término do download: 2020-03-31 04:49:58
+
+O repositório: datasette foi baixado (ou já estava baixado), ele é o repositorio de número: 723. Hora do término do download: 2020-03-31 04:50:01
+
+O repositório: icdiff foi baixado (ou já estava baixado), ele é o repositorio de número: 724. Hora do término do download: 2020-03-31 04:50:03
+
+O repositório: s3cmd foi baixado (ou já estava baixado), ele é o repositorio de número: 725. Hora do término do download: 2020-03-31 04:50:06
+
+O repositório: vaex foi baixado (ou já estava baixado), ele é o repositorio de número: 726. Hora do término do download: 2020-03-31 04:50:19
+
+O repositório: DeepLearning.ai-Summary foi baixado (ou já estava baixado), ele é o repositorio de número: 727. Hora do término do download: 2020-03-31 04:50:26
+
+O repositório: documentation foi baixado (ou já estava baixado), ele é o repositorio de número: 728. Hora do término do download: 2020-03-31 04:50:43
+
+O repositório: curio foi baixado (ou já estava baixado), ele é o repositorio de número: 729. Hora do término do download: 2020-03-31 04:50:45
+
+O repositório: lektor foi baixado (ou já estava baixado), ele é o repositorio de número: 730. Hora do término do download: 2020-03-31 04:50:48
+
+O repositório: flocker foi baixado (ou já estava baixado), ele é o repositorio de número: 731. Hora do término do download: 2020-03-31 04:50:57
+
+O repositório: sklearn-doc-zh foi baixado (ou já estava baixado), ele é o repositorio de número: 732. Hora do término do download: 2020-03-31 04:51:06
+
+O repositório: me_cleaner foi baixado (ou já estava baixado), ele é o repositorio de número: 733. Hora do término do download: 2020-03-31 04:51:08
+
+O repositório: DeepNude-an-Image-to-Image-technology foi baixado (ou já estava baixado), ele é o repositorio de número: 734. Hora do término do download: 2020-03-31 04:51:12
+
+O repositório: cryptography foi baixado (ou já estava baixado), ele é o repositorio de número: 735. Hora do término do download: 2020-03-31 04:51:20
+
+O repositório: s2client-proto foi baixado (ou já estava baixado), ele é o repositorio de número: 736. Hora do término do download: 2020-03-31 04:51:24
+
+O repositório: whereami foi baixado (ou já estava baixado), ele é o repositorio de número: 737. Hora do término do download: 2020-03-31 04:51:26
+
+O repositório: dnsmasq-china-list foi baixado (ou já estava baixado), ele é o repositorio de número: 738. Hora do término do download: 2020-03-31 04:51:26
+
+O repositório: skflow foi baixado (ou já estava baixado), ele é o repositorio de número: 739. Hora do término do download: 2020-03-31 04:51:28
+
+O repositório: snips-nlu foi baixado (ou já estava baixado), ele é o repositorio de número: 740. Hora do término do download: 2020-03-31 04:51:32
+
+O repositório: sphinx foi baixado (ou já estava baixado), ele é o repositorio de número: 741. Hora do término do download: 2020-03-31 04:51:40
+
+O repositório: lutris foi baixado (ou já estava baixado), ele é o repositorio de número: 742. Hora do término do download: 2020-03-31 04:51:46
+
+O repositório: dcgan_code foi baixado (ou já estava baixado), ele é o repositorio de número: 743. Hora do término do download: 2020-03-31 04:51:55
+
+O repositório: mkcast foi baixado (ou já estava baixado), ele é o repositorio de número: 744. Hora do término do download: 2020-03-31 04:51:57
+
+O repositório: pyjwt foi baixado (ou já estava baixado), ele é o repositorio de número: 745. Hora do término do download: 2020-03-31 04:51:59
+
+O repositório: tribler foi baixado (ou já estava baixado), ele é o repositorio de número: 746. Hora do término do download: 2020-03-31 04:52:13
+
+O repositório: distribute_crawler apresentou problemas na leitura, ele era o repositorio de número: 747. Hora do erro: 2020-03-31 04:52:17
+
+O repositório: google-cloud-python foi baixado (ou já estava baixado), ele é o repositorio de número: 748. Hora do término do download: 2020-03-31 04:56:08
+
+O repositório: Tensorflow-Project-Template foi baixado (ou já estava baixado), ele é o repositorio de número: 749. Hora do término do download: 2020-03-31 04:56:10
+
+O repositório: pampy foi baixado (ou já estava baixado), ele é o repositorio de número: 750. Hora do término do download: 2020-03-31 04:56:12
+
+O repositório: rebound foi baixado (ou já estava baixado), ele é o repositorio de número: 751. Hora do término do download: 2020-03-31 05:03:27
+
+O repositório: PlainTasks foi baixado (ou já estava baixado), ele é o repositorio de número: 752. Hora do término do download: 2020-03-31 05:03:30
+
+O repositório: PyTorchZeroToAll foi baixado (ou já estava baixado), ele é o repositorio de número: 753. Hora do término do download: 2020-03-31 05:03:36
+
+O repositório: awesome-graph-classification foi baixado (ou já estava baixado), ele é o repositorio de número: 754. Hora do término do download: 2020-03-31 05:03:38
+
+O repositório: cookiecutter-flask foi baixado (ou já estava baixado), ele é o repositorio de número: 755. Hora do término do download: 2020-03-31 05:03:41
+
+O repositório: patroni foi baixado (ou já estava baixado), ele é o repositorio de número: 756. Hora do término do download: 2020-03-31 05:03:44
+
+O repositório: Responder foi baixado (ou já estava baixado), ele é o repositorio de número: 757. Hora do término do download: 2020-03-31 05:03:47
+
+O repositório: pysot foi baixado (ou já estava baixado), ele é o repositorio de número: 758. Hora do término do download: 2020-03-31 05:03:50
+
+O repositório: sublime-jsdocs foi baixado (ou já estava baixado), ele é o repositorio de número: 759. Hora do término do download: 2020-03-31 05:03:53
+
+O repositório: tlroadmap foi baixado (ou já estava baixado), ele é o repositorio de número: 760. Hora do término do download: 2020-03-31 05:03:56
+
+O repositório: maya foi baixado (ou já estava baixado), ele é o repositorio de número: 761. Hora do término do download: 2020-03-31 05:03:59
+
+O repositório: python-small-examples foi baixado (ou já estava baixado), ele é o repositorio de número: 762. Hora do término do download: 2020-03-31 05:04:11
+
+O repositório: monkey foi baixado (ou já estava baixado), ele é o repositorio de número: 763. Hora do término do download: 2020-03-31 05:04:16
+
+O repositório: cookiecutter-data-science foi baixado (ou já estava baixado), ele é o repositorio de número: 764. Hora do término do download: 2020-03-31 05:04:22
+
+O repositório: kaggle-api foi baixado (ou já estava baixado), ele é o repositorio de número: 765. Hora do término do download: 2020-03-31 05:04:24
+
+O repositório: metaflow foi baixado (ou já estava baixado), ele é o repositorio de número: 766. Hora do término do download: 2020-03-31 05:04:27
+
+O repositório: w3af foi baixado (ou já estava baixado), ele é o repositorio de número: 767. Hora do término do download: 2020-03-31 05:04:50
+
+O repositório: pythia foi baixado (ou já estava baixado), ele é o repositorio de número: 768. Hora do término do download: 2020-03-31 05:05:02
+
+O repositório: v2ex-gae foi baixado (ou já estava baixado), ele é o repositorio de número: 769. Hora do término do download: 2020-03-31 05:05:06
+
+O repositório: pyppeteer foi baixado (ou já estava baixado), ele é o repositorio de número: 770. Hora do término do download: 2020-03-31 05:05:09
+
+O repositório: papermill foi baixado (ou já estava baixado), ele é o repositorio de número: 771. Hora do término do download: 2020-03-31 05:05:11
+
+O repositório: semantic-segmentation-pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 772. Hora do término do download: 2020-03-31 05:05:14
+
+O repositório: haxor-news foi baixado (ou já estava baixado), ele é o repositorio de número: 773. Hora do término do download: 2020-03-31 05:05:17
+
+O repositório: rainbowstream foi baixado (ou já estava baixado), ele é o repositorio de número: 774. Hora do término do download: 2020-03-31 05:05:23
+
+O repositório: mongoengine foi baixado (ou já estava baixado), ele é o repositorio de número: 775. Hora do término do download: 2020-03-31 05:05:28
+
+O repositório: osx-gcc-installer foi baixado (ou já estava baixado), ele é o repositorio de número: 776. Hora do término do download: 2020-03-31 05:05:30
+
+O repositório: tf-pose-estimation foi baixado (ou já estava baixado), ele é o repositorio de número: 777. Hora do término do download: 2020-03-31 05:05:40
+
+O repositório: Deformable-ConvNets foi baixado (ou já estava baixado), ele é o repositorio de número: 778. Hora do término do download: 2020-03-31 05:05:43
+
+O repositório: cowrie foi baixado (ou já estava baixado), ele é o repositorio de número: 779. Hora do término do download: 2020-03-31 05:05:47
+
+O repositório: mantl foi baixado (ou já estava baixado), ele é o repositorio de número: 780. Hora do término do download: 2020-03-31 05:05:51
+
+O repositório: trio foi baixado (ou já estava baixado), ele é o repositorio de número: 781. Hora do término do download: 2020-03-31 05:05:55
+
+O repositório: wal-e foi baixado (ou já estava baixado), ele é o repositorio de número: 782. Hora do término do download: 2020-03-31 05:06:00
+
+O repositório: deep-voice-conversion foi baixado (ou já estava baixado), ele é o repositorio de número: 783. Hora do término do download: 2020-03-31 05:06:17
+
+O repositório: ERNIE foi baixado (ou já estava baixado), ele é o repositorio de número: 784. Hora do término do download: 2020-03-31 05:06:22
+
+O repositório: Lihang foi baixado (ou já estava baixado), ele é o repositorio de número: 785. Hora do término do download: 2020-03-31 05:06:26
+
+O repositório: samplemod foi baixado (ou já estava baixado), ele é o repositorio de número: 786. Hora do término do download: 2020-03-31 05:06:31
+
+O repositório: flask-sqlalchemy foi baixado (ou já estava baixado), ele é o repositorio de número: 787. Hora do término do download: 2020-03-31 05:06:34
+
+O repositório: PyPDF2 foi baixado (ou já estava baixado), ele é o repositorio de número: 788. Hora do término do download: 2020-03-31 05:06:37
+
+O repositório: ptf foi baixado (ou já estava baixado), ele é o repositorio de número: 789. Hora do término do download: 2020-03-31 05:06:39
+
+O repositório: learn_python3_spider apresentou problemas na leitura, ele era o repositorio de número: 790. Hora do erro: 2020-03-31 05:06:48
+
+O repositório: pytorch-image-models foi baixado (ou já estava baixado), ele é o repositorio de número: 791. Hora do término do download: 2020-03-31 05:06:52
+
+O repositório: DeepCTR foi baixado (ou já estava baixado), ele é o repositorio de número: 792. Hora do término do download: 2020-03-31 05:06:55
+
+O repositório: Deep-Learning-Roadmap foi baixado (ou já estava baixado), ele é o repositorio de número: 793. Hora do término do download: 2020-03-31 05:06:59
+
+O repositório: Sick-Beard foi baixado (ou já estava baixado), ele é o repositorio de número: 794. Hora do término do download: 2020-03-31 05:07:03
+
+O repositório: esptool foi baixado (ou já estava baixado), ele é o repositorio de número: 795. Hora do término do download: 2020-03-31 05:07:09
+
+O repositório: connexion foi baixado (ou já estava baixado), ele é o repositorio de número: 796. Hora do término do download: 2020-03-31 05:07:13
+
+O repositório: stack-overflow-import foi baixado (ou já estava baixado), ele é o repositorio de número: 797. Hora do término do download: 2020-03-31 05:07:19
+
+O repositório: flask_jsondash foi baixado (ou já estava baixado), ele é o repositorio de número: 798. Hora do término do download: 2020-03-31 05:07:22
+
+O repositório: lightfm foi baixado (ou já estava baixado), ele é o repositorio de número: 799. Hora do término do download: 2020-03-31 05:07:26
+
+O repositório: skorch foi baixado (ou já estava baixado), ele é o repositorio de número: 800. Hora do término do download: 2020-03-31 05:07:29
+
+O repositório: OnlineJudge foi baixado (ou já estava baixado), ele é o repositorio de número: 801. Hora do término do download: 2020-03-31 05:07:34
+
+O repositório: attrs foi baixado (ou já estava baixado), ele é o repositorio de número: 802. Hora do término do download: 2020-03-31 05:07:38
+
+O repositório: wifijammer foi baixado (ou já estava baixado), ele é o repositorio de número: 803. Hora do término do download: 2020-03-31 05:07:41
+
+O repositório: pyAudioAnalysis foi baixado (ou já estava baixado), ele é o repositorio de número: 804. Hora do término do download: 2020-03-31 05:07:57
+
+O repositório: pyod foi baixado (ou já estava baixado), ele é o repositorio de número: 805. Hora do término do download: 2020-03-31 05:08:02
+
+O repositório: mongo-python-driver foi baixado (ou já estava baixado), ele é o repositorio de número: 806. Hora do término do download: 2020-03-31 05:08:07
+
+O repositório: toapi foi baixado (ou já estava baixado), ele é o repositorio de número: 807. Hora do término do download: 2020-03-31 05:08:10
+
+O repositório: tensorflow_poems foi baixado (ou já estava baixado), ele é o repositorio de número: 808. Hora do término do download: 2020-03-31 05:08:24
+
+O repositório: flan foi baixado (ou já estava baixado), ele é o repositorio de número: 809. Hora do término do download: 2020-03-31 05:08:28
+
+O repositório: FastMaskRCNN foi baixado (ou já estava baixado), ele é o repositorio de número: 810. Hora do término do download: 2020-03-31 05:08:30
+
+O repositório: fn.py foi baixado (ou já estava baixado), ele é o repositorio de número: 811. Hora do término do download: 2020-03-31 05:08:32
+
+O repositório: kubernetes-workshop foi baixado (ou já estava baixado), ele é o repositorio de número: 812. Hora do término do download: 2020-03-31 05:08:34
+
+O repositório: transformer foi baixado (ou já estava baixado), ele é o repositorio de número: 813. Hora do término do download: 2020-03-31 05:08:36
+
+O repositório: iOS-Universal-Framework foi baixado (ou já estava baixado), ele é o repositorio de número: 814. Hora do término do download: 2020-03-31 05:08:39
+
+O repositório: seq2seq foi baixado (ou já estava baixado), ele é o repositorio de número: 815. Hora do término do download: 2020-03-31 05:08:42
+
+O repositório: coala foi baixado (ou já estava baixado), ele é o repositorio de número: 816. Hora do término do download: 2020-03-31 05:08:46
+
+O repositório: Legofy foi baixado (ou já estava baixado), ele é o repositorio de número: 817. Hora do término do download: 2020-03-31 05:08:50
+
+O repositório: brython foi baixado (ou já estava baixado), ele é o repositorio de número: 818. Hora do término do download: 2020-03-31 05:09:20
+
+O repositório: profiling foi baixado (ou já estava baixado), ele é o repositorio de número: 819. Hora do término do download: 2020-03-31 05:09:23
+
+O repositório: MatchZoo foi baixado (ou já estava baixado), ele é o repositorio de número: 820. Hora do término do download: 2020-03-31 05:09:30
+
+O repositório: diff-match-patch foi baixado (ou já estava baixado), ele é o repositorio de número: 821. Hora do término do download: 2020-03-31 05:09:33
+
+O repositório: pygta5 foi baixado (ou já estava baixado), ele é o repositorio de número: 822. Hora do término do download: 2020-03-31 05:09:36
+
+O repositório: trfl foi baixado (ou já estava baixado), ele é o repositorio de número: 823. Hora do término do download: 2020-03-31 05:09:38
+
+O repositório: androguard foi baixado (ou já estava baixado), ele é o repositorio de número: 824. Hora do término do download: 2020-03-31 05:09:55
+
+O repositório: calibre-web foi baixado (ou já estava baixado), ele é o repositorio de número: 825. Hora do término do download: 2020-03-31 05:10:03
+
+O repositório: SinaSpider foi baixado (ou já estava baixado), ele é o repositorio de número: 826. Hora do término do download: 2020-03-31 05:10:05
+
+O repositório: MITMf foi baixado (ou já estava baixado), ele é o repositorio de número: 827. Hora do término do download: 2020-03-31 05:10:07
+
+O repositório: Python-crawler-tutorial-starts-from-zero foi baixado (ou já estava baixado), ele é o repositorio de número: 828. Hora do término do download: 2020-03-31 05:10:10
+
+O repositório: django-filter foi baixado (ou já estava baixado), ele é o repositorio de número: 829. Hora do término do download: 2020-03-31 05:10:14
+
+O repositório: SC-FEGAN foi baixado (ou já estava baixado), ele é o repositorio de número: 830. Hora do término do download: 2020-03-31 05:10:18
+
+O repositório: imagededup foi baixado (ou já estava baixado), ele é o repositorio de número: 831. Hora do término do download: 2020-03-31 05:10:24
+
+O repositório: LSTM-Neural-Network-for-Time-Series-Prediction foi baixado (ou já estava baixado), ele é o repositorio de número: 832. Hora do término do download: 2020-03-31 05:10:28
+
+O repositório: django-haystack foi baixado (ou já estava baixado), ele é o repositorio de número: 833. Hora do término do download: 2020-03-31 05:10:31
+
+O repositório: algorithm-exercise foi baixado (ou já estava baixado), ele é o repositorio de número: 834. Hora do término do download: 2020-03-31 05:10:37
+
+O repositório: pytube foi baixado (ou já estava baixado), ele é o repositorio de número: 835. Hora do término do download: 2020-03-31 05:10:40
+
+O repositório: microk8s foi baixado (ou já estava baixado), ele é o repositorio de número: 836. Hora do término do download: 2020-03-31 05:10:47
+
+O repositório: dotbot foi baixado (ou já estava baixado), ele é o repositorio de número: 837. Hora do término do download: 2020-03-31 05:10:49
+
+O repositório: instantbox foi baixado (ou já estava baixado), ele é o repositorio de número: 838. Hora do término do download: 2020-03-31 05:10:52
+
+O repositório: python-oauth2 foi baixado (ou já estava baixado), ele é o repositorio de número: 839. Hora do término do download: 2020-03-31 05:10:54
+
+O repositório: django-rest-framework-jwt foi baixado (ou já estava baixado), ele é o repositorio de número: 840. Hora do término do download: 2020-03-31 05:10:55
+
+O repositório: intermediatePython foi baixado (ou já estava baixado), ele é o repositorio de número: 841. Hora do término do download: 2020-03-31 05:10:58
+
+O repositório: learn_math_fast foi baixado (ou já estava baixado), ele é o repositorio de número: 842. Hora do término do download: 2020-03-31 05:10:59
+
+O repositório: percol foi baixado (ou já estava baixado), ele é o repositorio de número: 843. Hora do término do download: 2020-03-31 05:11:02
+
+O repositório: 100-Days-of-ML-Code-Chinese-Version foi baixado (ou já estava baixado), ele é o repositorio de número: 844. Hora do término do download: 2020-03-31 05:11:06
+
+O repositório: python-twitter foi baixado (ou já estava baixado), ele é o repositorio de número: 845. Hora do término do download: 2020-03-31 05:11:09
+
+O repositório: WiFi-Pumpkin foi baixado (ou já estava baixado), ele é o repositorio de número: 846. Hora do término do download: 2020-03-31 05:11:13
+
+O repositório: headphones foi baixado (ou já estava baixado), ele é o repositorio de número: 847. Hora do término do download: 2020-03-31 05:11:18
+
+O repositório: python-dotenv foi baixado (ou já estava baixado), ele é o repositorio de número: 848. Hora do término do download: 2020-03-31 05:11:27
+
+O repositório: splash foi baixado (ou já estava baixado), ele é o repositorio de número: 849. Hora do término do download: 2020-03-31 05:11:30
+
+O repositório: imutils foi baixado (ou já estava baixado), ele é o repositorio de número: 850. Hora do término do download: 2020-03-31 05:11:33
+
+O repositório: scylla foi baixado (ou já estava baixado), ele é o repositorio de número: 851. Hora do término do download: 2020-03-31 05:18:12
+
+O repositório: chnroutes foi baixado (ou já estava baixado), ele é o repositorio de número: 852. Hora do término do download: 2020-03-31 05:18:14
+
+O repositório: microblog foi baixado (ou já estava baixado), ele é o repositorio de número: 853. Hora do término do download: 2020-03-31 05:18:15
+
+O repositório: huey foi baixado (ou já estava baixado), ele é o repositorio de número: 854. Hora do término do download: 2020-03-31 05:18:18
+
+O repositório: algorithms foi baixado (ou já estava baixado), ele é o repositorio de número: 855. Hora do término do download: 2020-03-31 05:18:20
+
+O repositório: transitions foi baixado (ou já estava baixado), ele é o repositorio de número: 856. Hora do término do download: 2020-03-31 05:18:23
+
+O repositório: sistine foi baixado (ou já estava baixado), ele é o repositorio de número: 857. Hora do término do download: 2020-03-31 05:18:29
+
+O repositório: text-classification-cnn-rnn foi baixado (ou já estava baixado), ele é o repositorio de número: 858. Hora do término do download: 2020-03-31 05:18:31
+
+O repositório: pipfile foi baixado (ou já estava baixado), ele é o repositorio de número: 859. Hora do término do download: 2020-03-31 05:18:32
+
+O repositório: docker-registry foi baixado (ou já estava baixado), ele é o repositorio de número: 860. Hora do término do download: 2020-03-31 05:18:34
+
+O repositório: golem foi baixado (ou já estava baixado), ele é o repositorio de número: 861. Hora do término do download: 2020-03-31 05:18:51
+
+O repositório: MonkeyType foi baixado (ou já estava baixado), ele é o repositorio de número: 862. Hora do término do download: 2020-03-31 05:18:58
+
+O repositório: DeepVideoAnalytics foi baixado (ou já estava baixado), ele é o repositorio de número: 863. Hora do término do download: 2020-03-31 05:19:22
+
+O repositório: securedrop foi baixado (ou já estava baixado), ele é o repositorio de número: 864. Hora do término do download: 2020-03-31 05:19:34
+
+O repositório: plasma foi baixado (ou já estava baixado), ele é o repositorio de número: 865. Hora do término do download: 2020-03-31 05:19:37
+
+O repositório: blaze foi baixado (ou já estava baixado), ele é o repositorio de número: 866. Hora do término do download: 2020-03-31 05:19:42
+
+O repositório: torchdiffeq foi baixado (ou já estava baixado), ele é o repositorio de número: 867. Hora do término do download: 2020-03-31 05:19:44
+
+O repositório: neural-storyteller foi baixado (ou já estava baixado), ele é o repositorio de número: 868. Hora do término do download: 2020-03-31 05:19:48
+
+O repositório: mlxtend foi baixado (ou já estava baixado), ele é o repositorio de número: 869. Hora do término do download: 2020-03-31 05:19:57
+
+O repositório: KnowledgeGraphData foi baixado (ou já estava baixado), ele é o repositorio de número: 870. Hora do término do download: 2020-03-31 05:20:00
+
+O repositório: pyalgotrade foi baixado (ou já estava baixado), ele é o repositorio de número: 871. Hora do término do download: 2020-03-31 05:20:07
+
+O repositório: Crunch foi baixado (ou já estava baixado), ele é o repositorio de número: 872. Hora do término do download: 2020-03-31 05:20:13
+
+O repositório: sublime-text-git foi baixado (ou já estava baixado), ele é o repositorio de número: 873. Hora do término do download: 2020-03-31 05:20:15
+
+O repositório: easy-tensorflow foi baixado (ou já estava baixado), ele é o repositorio de número: 874. Hora do término do download: 2020-03-31 05:20:19
+
+O repositório: webcam-pulse-detector foi baixado (ou já estava baixado), ele é o repositorio de número: 875. Hora do término do download: 2020-03-31 05:20:21
+
+O repositório: elasticsearch-dsl-py foi baixado (ou já estava baixado), ele é o repositorio de número: 876. Hora do término do download: 2020-03-31 05:20:23
+
+O repositório: RocketMap foi baixado (ou já estava baixado), ele é o repositorio de número: 877. Hora do término do download: 2020-03-31 05:20:32
+
+O repositório: MachineLearning_Python foi baixado (ou já estava baixado), ele é o repositorio de número: 878. Hora do término do download: 2020-03-31 05:20:36
+
+O repositório: activitywatch foi baixado (ou já estava baixado), ele é o repositorio de número: 879. Hora do término do download: 2020-03-31 05:20:38
+
+O repositório: Synonyms foi baixado (ou já estava baixado), ele é o repositorio de número: 880. Hora do término do download: 2020-03-31 05:20:51
+
+O repositório: listen1 foi baixado (ou já estava baixado), ele é o repositorio de número: 881. Hora do término do download: 2020-03-31 05:20:53
+
+O repositório: bullet foi baixado (ou já estava baixado), ele é o repositorio de número: 882. Hora do término do download: 2020-03-31 05:20:55
+
+O repositório: MarkdownEditing foi baixado (ou já estava baixado), ele é o repositorio de número: 883. Hora do término do download: 2020-03-31 05:20:57
+
+O repositório: Tensorflow-Cookbook foi baixado (ou já estava baixado), ele é o repositorio de número: 884. Hora do término do download: 2020-03-31 05:21:00
+
+O repositório: P4wnP1 foi baixado (ou já estava baixado), ele é o repositorio de número: 885. Hora do término do download: 2020-03-31 05:21:02
+
+O repositório: python-social-auth foi baixado (ou já estava baixado), ele é o repositorio de número: 886. Hora do término do download: 2020-03-31 05:21:05
+
+O repositório: usbkill foi baixado (ou já estava baixado), ele é o repositorio de número: 887. Hora do término do download: 2020-03-31 05:21:10
+
+O repositório: udemy-dl foi baixado (ou já estava baixado), ele é o repositorio de número: 888. Hora do término do download: 2020-03-31 05:21:11
+
+O repositório: caffe-tensorflow foi baixado (ou já estava baixado), ele é o repositorio de número: 889. Hora do término do download: 2020-03-31 05:21:14
+
+O repositório: deepfakes_faceswap foi baixado (ou já estava baixado), ele é o repositorio de número: 890. Hora do término do download: 2020-03-31 05:21:16
+
+O repositório: invoke foi baixado (ou já estava baixado), ele é o repositorio de número: 891. Hora do término do download: 2020-03-31 05:21:18
+
+O repositório: apprise foi baixado (ou já estava baixado), ele é o repositorio de número: 892. Hora do término do download: 2020-03-31 05:21:21
+
+O repositório: pyTelegramBotAPI foi baixado (ou já estava baixado), ele é o repositorio de número: 893. Hora do término do download: 2020-03-31 05:21:24
+
+O repositório: sampleproject foi baixado (ou já estava baixado), ele é o repositorio de número: 894. Hora do término do download: 2020-03-31 05:21:26
+
+O repositório: text-detection-ctpn foi baixado (ou já estava baixado), ele é o repositorio de número: 895. Hora do término do download: 2020-03-31 05:21:52
+
+O repositório: gef foi baixado (ou já estava baixado), ele é o repositorio de número: 896. Hora do término do download: 2020-03-31 05:21:55
+
+O repositório: awesome-reactnative-ui foi baixado (ou já estava baixado), ele é o repositorio de número: 897. Hora do término do download: 2020-03-31 05:21:56
+
+O repositório: geopy foi baixado (ou já estava baixado), ele é o repositorio de número: 898. Hora do término do download: 2020-03-31 05:21:58
+
+O repositório: algorithm foi baixado (ou já estava baixado), ele é o repositorio de número: 899. Hora do término do download: 2020-03-31 05:22:00
+
+O repositório: tqdm foi baixado (ou já estava baixado), ele é o repositorio de número: 900. Hora do término do download: 2020-03-31 05:22:03
+
+O repositório: cloud-custodian foi baixado (ou já estava baixado), ele é o repositorio de número: 901. Hora do término do download: 2020-03-31 05:22:31
+
+O repositório: pybrain foi baixado (ou já estava baixado), ele é o repositorio de número: 902. Hora do término do download: 2020-03-31 05:22:39
+
+O repositório: graphene-django foi baixado (ou já estava baixado), ele é o repositorio de número: 903. Hora do término do download: 2020-03-31 05:22:43
+
+O repositório: pytesseract foi baixado (ou já estava baixado), ele é o repositorio de número: 904. Hora do término do download: 2020-03-31 05:22:46
+
+O repositório: PyTricks foi baixado (ou já estava baixado), ele é o repositorio de número: 905. Hora do término do download: 2020-03-31 05:22:48
+
+O repositório: Ghost.py foi baixado (ou já estava baixado), ele é o repositorio de número: 906. Hora do término do download: 2020-03-31 05:22:50
+
+O repositório: qiskit-terra foi baixado (ou já estava baixado), ele é o repositorio de número: 907. Hora do término do download: 2020-03-31 05:22:56
+
+O repositório: healthchecks foi baixado (ou já estava baixado), ele é o repositorio de número: 908. Hora do término do download: 2020-03-31 05:23:02
+
+O repositório: chineseocr foi baixado (ou já estava baixado), ele é o repositorio de número: 909. Hora do término do download: 2020-03-31 05:23:08
+
+O repositório: fast-rcnn foi baixado (ou já estava baixado), ele é o repositorio de número: 910. Hora do término do download: 2020-03-31 05:23:10
+
+O repositório: fbs foi baixado (ou já estava baixado), ele é o repositorio de número: 911. Hora do término do download: 2020-03-31 05:23:12
+
+O repositório: camelot foi baixado (ou já estava baixado), ele é o repositorio de número: 912. Hora do término do download: 2020-03-31 05:23:16
+
+O repositório: elasticsearch-py foi baixado (ou já estava baixado), ele é o repositorio de número: 913. Hora do término do download: 2020-03-31 05:23:18
+
+O repositório: sacred foi baixado (ou já estava baixado), ele é o repositorio de número: 914. Hora do término do download: 2020-03-31 05:23:21
+
+O repositório: AdaBound foi baixado (ou já estava baixado), ele é o repositorio de número: 915. Hora do término do download: 2020-03-31 05:23:24
+
+O repositório: adversarial foi baixado (ou já estava baixado), ele é o repositorio de número: 916. Hora do término do download: 2020-03-31 05:23:28
+
+O repositório: fcn.berkeleyvision.org foi baixado (ou já estava baixado), ele é o repositorio de número: 917. Hora do término do download: 2020-03-31 05:23:30
+
+O repositório: social_mapper foi baixado (ou já estava baixado), ele é o repositorio de número: 918. Hora do término do download: 2020-03-31 05:23:32
+
+O repositório: jsonschema foi baixado (ou já estava baixado), ele é o repositorio de número: 919. Hora do término do download: 2020-03-31 05:23:34
+
+O repositório: pipreqs foi baixado (ou já estava baixado), ele é o repositorio de número: 920. Hora do término do download: 2020-03-31 05:23:36
+
+O repositório: Flask-AppBuilder foi baixado (ou já estava baixado), ele é o repositorio de número: 921. Hora do término do download: 2020-03-31 05:23:42
+
+O repositório: telepresence foi baixado (ou já estava baixado), ele é o repositorio de número: 922. Hora do término do download: 2020-03-31 05:23:46
+
+O repositório: darts foi baixado (ou já estava baixado), ele é o repositorio de número: 923. Hora do término do download: 2020-03-31 05:23:49
+
+O repositório: lda2vec foi baixado (ou já estava baixado), ele é o repositorio de número: 924. Hora do término do download: 2020-03-31 05:23:52
+
+O repositório: paper-tips-and-tricks foi baixado (ou já estava baixado), ele é o repositorio de número: 925. Hora do término do download: 2020-03-31 05:23:54
+
+O repositório: tmuxp foi baixado (ou já estava baixado), ele é o repositorio de número: 926. Hora do término do download: 2020-03-31 05:23:57
+
+O repositório: pytorch-cifar foi baixado (ou já estava baixado), ele é o repositorio de número: 927. Hora do término do download: 2020-03-31 05:23:59
+
+O repositório: doitlive foi baixado (ou já estava baixado), ele é o repositorio de número: 928. Hora do término do download: 2020-03-31 05:24:01
+
+O repositório: pylearn2 foi baixado (ou já estava baixado), ele é o repositorio de número: 929. Hora do término do download: 2020-03-31 05:24:07
+
+O repositório: awesome-iot foi baixado (ou já estava baixado), ele é o repositorio de número: 930. Hora do término do download: 2020-03-31 05:24:13
+
+O repositório: isort foi baixado (ou já estava baixado), ele é o repositorio de número: 931. Hora do término do download: 2020-03-31 05:24:16
+
+O repositório: coconut foi baixado (ou já estava baixado), ele é o repositorio de número: 932. Hora do término do download: 2020-03-31 05:24:19
+
+O repositório: Awesome-WAF foi baixado (ou já estava baixado), ele é o repositorio de número: 933. Hora do término do download: 2020-03-31 05:24:24
+
+O repositório: OUCML foi baixado (ou já estava baixado), ele é o repositorio de número: 934. Hora do término do download: 2020-03-31 05:25:48
+
+O repositório: responses foi baixado (ou já estava baixado), ele é o repositorio de número: 935. Hora do término do download: 2020-03-31 05:25:53
+
+O repositório: ASRT_SpeechRecognition foi baixado (ou já estava baixado), ele é o repositorio de número: 936. Hora do término do download: 2020-03-31 05:25:56
+
+O repositório: pylint foi baixado (ou já estava baixado), ele é o repositorio de número: 937. Hora do término do download: 2020-03-31 05:26:01
+
+O repositório: Detectron.pytorch foi baixado (ou já estava baixado), ele é o repositorio de número: 938. Hora do término do download: 2020-03-31 05:26:04
+
+O repositório: python-cookbook foi baixado (ou já estava baixado), ele é o repositorio de número: 939. Hora do término do download: 2020-03-31 05:26:07
+
+O repositório: ShadowSocksShare foi baixado (ou já estava baixado), ele é o repositorio de número: 940. Hora do término do download: 2020-03-31 05:26:11
+
+O repositório: wfuzz foi baixado (ou já estava baixado), ele é o repositorio de número: 941. Hora do término do download: 2020-03-31 05:26:14
+
+O repositório: python-ftfy foi baixado (ou já estava baixado), ele é o repositorio de número: 942. Hora do término do download: 2020-03-31 05:26:17
+
+O repositório: django-jet foi baixado (ou já estava baixado), ele é o repositorio de número: 943. Hora do término do download: 2020-03-31 05:26:20
+
+O repositório: DeepQA foi baixado (ou já estava baixado), ele é o repositorio de número: 944. Hora do término do download: 2020-03-31 05:26:23
+
+O repositório: mimesis foi baixado (ou já estava baixado), ele é o repositorio de número: 945. Hora do término do download: 2020-03-31 05:26:27
+
+O repositório: ignite foi baixado (ou já estava baixado), ele é o repositorio de número: 946. Hora do término do download: 2020-03-31 05:26:31
+
+O repositório: pwndbg foi baixado (ou já estava baixado), ele é o repositorio de número: 947. Hora do término do download: 2020-03-31 05:26:35
+
+O repositório: Chinese-BERT-wwm foi baixado (ou já estava baixado), ele é o repositorio de número: 948. Hora do término do download: 2020-03-31 05:26:39
+
+O repositório: molecule foi baixado (ou já estava baixado), ele é o repositorio de número: 949. Hora do término do download: 2020-03-31 05:26:43
+
+O repositório: yellowbrick foi baixado (ou já estava baixado), ele é o repositorio de número: 950. Hora do término do download: 2020-03-31 05:26:53
+
+O repositório: yolact foi baixado (ou já estava baixado), ele é o repositorio de número: 951. Hora do término do download: 2020-03-31 05:26:58
+
+O repositório: toolz foi baixado (ou já estava baixado), ele é o repositorio de número: 952. Hora do término do download: 2020-03-31 05:27:00
+
+O repositório: GitPython foi baixado (ou já estava baixado), ele é o repositorio de número: 953. Hora do término do download: 2020-03-31 05:27:04
+
+O repositório: DjangoBlog foi baixado (ou já estava baixado), ele é o repositorio de número: 954. Hora do término do download: 2020-03-31 05:27:06
+
+O repositório: diagrams foi baixado (ou já estava baixado), ele é o repositorio de número: 955. Hora do término do download: 2020-03-31 05:27:10
+
+O repositório: uncaptcha foi baixado (ou já estava baixado), ele é o repositorio de número: 956. Hora do término do download: 2020-03-31 05:27:27
+
+O repositório: Nuitka foi baixado (ou já estava baixado), ele é o repositorio de número: 957. Hora do término do download: 2020-03-31 05:27:33
+
+O repositório: pytorch-yolo-v3 foi baixado (ou já estava baixado), ele é o repositorio de número: 958. Hora do término do download: 2020-03-31 05:27:41
+
+O repositório: python-instagram foi baixado (ou já estava baixado), ele é o repositorio de número: 959. Hora do término do download: 2020-03-31 05:27:43
+
+O repositório: Automatic_Speech_Recognition foi baixado (ou já estava baixado), ele é o repositorio de número: 960. Hora do término do download: 2020-03-31 05:27:45
+
+O repositório: ambassador foi baixado (ou já estava baixado), ele é o repositorio de número: 961. Hora do término do download: 2020-03-31 05:28:10
+
+O repositório: ansible-for-devops foi baixado (ou já estava baixado), ele é o repositorio de número: 962. Hora do término do download: 2020-03-31 05:28:14
+
+O repositório: xunfeng foi baixado (ou já estava baixado), ele é o repositorio de número: 963. Hora do término do download: 2020-03-31 05:28:20
+
+O repositório: visidata foi baixado (ou já estava baixado), ele é o repositorio de número: 964. Hora do término do download: 2020-03-31 05:28:24
+
+O repositório: DAIN foi baixado (ou já estava baixado), ele é o repositorio de número: 965. Hora do término do download: 2020-03-31 05:28:26
+
+O repositório: tensorforce foi baixado (ou já estava baixado), ele é o repositorio de número: 966. Hora do término do download: 2020-03-31 05:28:30
+
+O repositório: doccano foi baixado (ou já estava baixado), ele é o repositorio de número: 967. Hora do término do download: 2020-03-31 05:28:38
+
+O repositório: tencent-ml-images foi baixado (ou já estava baixado), ele é o repositorio de número: 968. Hora do término do download: 2020-03-31 05:28:41
+
+O repositório: ODM foi baixado (ou já estava baixado), ele é o repositorio de número: 969. Hora do término do download: 2020-03-31 05:29:56
+
+O repositório: convnet-benchmarks foi baixado (ou já estava baixado), ele é o repositorio de número: 970. Hora do término do download: 2020-03-31 05:29:59
+
+O repositório: drawille foi baixado (ou já estava baixado), ele é o repositorio de número: 971. Hora do término do download: 2020-03-31 05:30:00
+
+O repositório: FreeWifi foi baixado (ou já estava baixado), ele é o repositorio de número: 972. Hora do término do download: 2020-03-31 05:30:04
+
+O repositório: Home-AssistantConfig foi baixado (ou já estava baixado), ele é o repositorio de número: 973. Hora do término do download: 2020-03-31 05:30:25
+
+O repositório: DeleteFB foi baixado (ou já estava baixado), ele é o repositorio de número: 974. Hora do término do download: 2020-03-31 05:30:29
+
+O repositório: WassersteinGAN foi baixado (ou já estava baixado), ele é o repositorio de número: 975. Hora do término do download: 2020-03-31 05:30:31
+
+O repositório: google-maps-services-python foi baixado (ou já estava baixado), ele é o repositorio de número: 976. Hora do término do download: 2020-03-31 05:30:33
+
+O repositório: git-remote-dropbox foi baixado (ou já estava baixado), ele é o repositorio de número: 977. Hora do término do download: 2020-03-31 05:30:35
+
+O repositório: autosub foi baixado (ou já estava baixado), ele é o repositorio de número: 978. Hora do término do download: 2020-03-31 05:30:36
+
+O repositório: curator foi baixado (ou já estava baixado), ele é o repositorio de número: 979. Hora do término do download: 2020-03-31 05:30:39
+
+O repositório: nova foi baixado (ou já estava baixado), ele é o repositorio de número: 980. Hora do término do download: 2020-03-31 05:31:32
+
+O repositório: pydantic foi baixado (ou já estava baixado), ele é o repositorio de número: 981. Hora do término do download: 2020-03-31 05:31:45
+
+O repositório: formspree foi baixado (ou já estava baixado), ele é o repositorio de número: 982. Hora do término do download: 2020-03-31 05:31:48
+
+O repositório: gif-for-cli foi baixado (ou já estava baixado), ele é o repositorio de número: 983. Hora do término do download: 2020-03-31 05:31:50
+
+O repositório: pytorch3d foi baixado (ou já estava baixado), ele é o repositorio de número: 984. Hora do término do download: 2020-03-31 05:31:54
+
+O repositório: pritunl foi baixado (ou já estava baixado), ele é o repositorio de número: 985. Hora do término do download: 2020-03-31 05:32:02
+
+O repositório: netflix-proxy foi baixado (ou já estava baixado), ele é o repositorio de número: 986. Hora do término do download: 2020-03-31 05:32:14
+
+O repositório: meson foi baixado (ou já estava baixado), ele é o repositorio de número: 987. Hora do término do download: 2020-03-31 05:32:21
+
+O repositório: zerorpc-python foi baixado (ou já estava baixado), ele é o repositorio de número: 988. Hora do término do download: 2020-03-31 05:32:25
+
+O repositório: websockets foi baixado (ou já estava baixado), ele é o repositorio de número: 989. Hora do término do download: 2020-03-31 05:32:28
+
+O repositório: python-slackclient foi baixado (ou já estava baixado), ele é o repositorio de número: 990. Hora do término do download: 2020-03-31 05:32:30
+
+O repositório: pytorch-semseg foi baixado (ou já estava baixado), ele é o repositorio de número: 991. Hora do término do download: 2020-03-31 05:32:32
+
+O repositório: char-rnn-tensorflow foi baixado (ou já estava baixado), ele é o repositorio de número: 992. Hora do término do download: 2020-03-31 05:32:34
+
+O repositório: vyper foi baixado (ou já estava baixado), ele é o repositorio de número: 993. Hora do término do download: 2020-03-31 05:32:37
+
+O repositório: ckan foi baixado (ou já estava baixado), ele é o repositorio de número: 994. Hora do término do download: 2020-03-31 05:32:57
+
+O repositório: freqtrade foi baixado (ou já estava baixado), ele é o repositorio de número: 995. Hora do término do download: 2020-03-31 05:33:07
+
+O repositório: Blasting_dictionary foi baixado (ou já estava baixado), ele é o repositorio de número: 996. Hora do término do download: 2020-03-31 05:33:12
+
+O repositório: django-guardian foi baixado (ou já estava baixado), ele é o repositorio de número: 997. Hora do término do download: 2020-03-31 05:33:14
+
+O repositório: dpark foi baixado (ou já estava baixado), ele é o repositorio de número: 998. Hora do término do download: 2020-03-31 05:33:17
+
+O repositório: katoolin foi baixado (ou já estava baixado), ele é o repositorio de número: 999. Hora do término do download: 2020-03-31 05:33:19
+
+O repositório: neural-style-tf foi baixado (ou já estava baixado), ele é o repositorio de número: 1000. Hora do término do download: 2020-03-31 05:33:28

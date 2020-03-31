@@ -5,7 +5,7 @@ import os
 import os.path
 import shutil
 
-fase = r"\Fase_1"
+fase = r"\Fase_2"
 
 def executar_query_github(query, headers):
     request = requests.post('https://api.github.com/graphql', json = {'query': query}, headers = headers)
@@ -18,7 +18,7 @@ def executar_query_github(query, headers):
 
 # Formatando as datas dos nodes para ficar mais limpo (yyyy-mm-dd)  
 def formatar_datas(response):
-    nodes = response['data']['user']['repositories']['nodes']
+    nodes = response['data']['search']['nodes']
     for i, repositorio in enumerate(nodes):
         nodes[i]['createdAt'] = nodes[i]['createdAt'].split("T")[0]
         
@@ -30,12 +30,10 @@ def exportar_arquivos(data):
         csvWriter = writer(csv_final)
         header = (["Nome", "Linguagem primária", "Quantidade de stars", "Watchers", "Data de criação", "Quantidade de forks", "URL"])
         csvWriter.writerow(header)
-        repositorios = data['data']['user']['repositories']['nodes']
-        for repo in repositorios:
+        for repo in data:
             repo = reposDictToString(repo)
-            if repo['primaryLanguage'] == " Python":
-                csvWriter.writerow(repo.values())
-                listaURLS += repo['url'].strip() + "," + repo['name'] + "\n"
+            csvWriter.writerow(repo.values())
+            listaURLS += repo['url'].strip() + "," + repo['name'] + "\n"
     exportarURLSparaTXT(listaURLS)
 
 def exportarURLSparaTXT(listaURLS):
@@ -76,7 +74,7 @@ def reposDictToString(repo):
     return repo
 
 
-def sprint2_fase1():
+def sprint2_fase2():
     headers = {
         'Content-Type': 'application/json',
         'Authorization': 'bearer SEU_TOKEN_AQUI'
@@ -84,9 +82,13 @@ def sprint2_fase1():
 
     query = """
     {
-        user(login: "gvanrossum") {
-            repositories(first: 50,isFork:false) {
-                nodes {
+        search(query:"language:Python stars:>100", type:REPOSITORY, first:10 {placeholder}){
+            pageInfo {
+                hasNextPage
+                endCursor
+            }
+            nodes {
+                ... on Repository {
                     name
                     primaryLanguage {
                         name
@@ -94,7 +96,7 @@ def sprint2_fase1():
                     stargazers {
                         totalCount
                     }
-                     watchers {
+                    watchers {
                         totalCount
                     }
                     createdAt
@@ -102,14 +104,42 @@ def sprint2_fase1():
                         totalCount
                     }
                     url
-                }
-            }
+                } 
+            } 
         }
     }
     """
 
-    response = executar_query_github(query, headers)
+    # O placeholder é responsável por substituir o cursor da próxima pagina (na primeira iteração ele é descartado)
+    query_inicial = query.replace("{placeholder}", "")
+
+    # Rodando a primeira vez 
+    response = executar_query_github(query_inicial, headers)
+    quantidade_execucoes = 1 
 
     formatar_datas(response) 
 
-    exportar_arquivos(response)
+    # Começa com um por já ter sido feita uma consulta
+    cursor_final_atual = response["data"]["search"]["pageInfo"]["endCursor"] # Atualiza o cursor
+    has_next_page = response["data"]["search"]["pageInfo"]["hasNextPage"] # Atualiza se tem proxima página
+    todos_resultados = response["data"]["search"]["nodes"]
+
+    # 10 paginas * 100 repositórios por pagina = 1000 repositorios.
+    while (quantidade_execucoes < 100 and has_next_page):
+        finalQuery = query.replace("{placeholder}", ', after: "%s"' % cursor_final_atual) # Troca a query para possuir o cursor
+        
+        response = executar_query_github(finalQuery, headers)
+        
+        formatar_datas(response)
+        
+        # Incrementa o output de resultados
+        todos_resultados += response["data"]["search"]["nodes"]
+        quantidade_execucoes += 1
+    
+        # Altera a proxima pagina
+        has_next_page = response["data"]["search"]["pageInfo"]["hasNextPage"] 
+
+        # Altera o cursor para o atual
+        cursor_final_atual = response["data"]["search"]["pageInfo"]["endCursor"] 
+    
+    exportar_arquivos(todos_resultados)
