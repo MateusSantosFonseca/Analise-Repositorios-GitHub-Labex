@@ -66,7 +66,7 @@ Ao final, na documentação, devem ser respondidas as seguintes questões (com d
 
 #### Execução dos scripts da Sprint 2:
 
-##### Obs.: As pastas estão divididas em fases, sendo no total 4 fases.
+##### Obs.: As pastas estão divididas em fases, sendo no total 4 fases. (Apenas as 2 primeiras possuem scripts, as últimas duas são análises realizadas acerca dos dados obtidos nas fases anteriores)
 
 Executar o script main.py, que é responsável por delegar a chamada correta dos scripts de acordo com a fase da Sprint escolhida no momento de execução.
 
@@ -74,9 +74,11 @@ Executar o script main.py, que é responsável por delegar a chamada correta dos
 
 **1º sprint2_faseX_script.py:** Ele é responsável por fazer a requisição com a query GraphQL para a API do github, ele também gera um arquivo texto que mapeia os repositórios e nomes que serão baixados. Finalmente ele gera um arquivo .CSV com todas métricas necessárias, exceto LOC (Lines of Code).
 
-**2° Util/downloader_e_contador_locs_repositorios.py:** Ele é responsável por fazer o download dos repositórios presentes no arquivo txt gerado na primeira etapa e por analisar a quantidade de linhas de código de cada repositório (criando um novo arquivo txt com os LOCS obtidos).
+**2° Util/downloader_e_contador_locs_repositorios.py:** Ele é responsável por fazer o download dos repositórios presentes no arquivo txt gerado na primeira etapa e por analisar a quantidade de linhas de código de cada repositório (criando um novo arquivo txt com os LOCs obtidos).
 
 **3° Util/exportador_lista_loc_csv.py:** Ele é responsável por recuperar os locs obtidos no script downloader_e_contador_locs_repositorios.py e, analisando o arquivo .csv anteriormente gerado, criar um novo arquivo .csv com a nova coluna de LOC de cada repositório. Este arquivo deleta o arquivo .csv obsoleto anterior.
+
+**4° Util/verificador_repositorios.py:** Ele é responsável por analisar o arquivo de locs .txt gerado no script downloader_e_contador_locs_repositorios.py. Através desta análise, ele gera um outro arquivo .txt que contém informações (nome e número do repositório na lista) sobre repositórios que não foram baixados corretamente e, consequentemente, não tiveram seus LOCs calculados corretamente. Finalmente, ele também insere neste mesmo .txt a quantidade total de repositórios que apresentaram problemas.
 
 ### Observações adicionais:
 
