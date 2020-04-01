@@ -114,7 +114,7 @@ def runScriptDownloaderContadorLocsRepositoriosMain(fase_atual):
             except:
                 print(r"O repositorio " + nome_repositorio + " não pode ser excluído!")
 
-    print("\nTodos repositórios foram baixados com sucesso!")
+    print("\nO script de download de repositórios foi finalizado normalmente.")
 
     excluirPasta(repos_path)
 

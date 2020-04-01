@@ -1,0 +1,107 @@
+Repositórios com erro:
+
+O repositório: core apresentou erro na leitura de locs. Ele era o 19° repositório.
+
+O repositório: 12306 apresentou erro na leitura de locs. Ele era o 25° repositório.
+
+O repositório: incubator-superset apresentou erro na leitura de locs. Ele era o 26° repositório.
+
+O repositório: sentry apresentou erro na leitura de locs. Ele era o 32° repositório.
+
+O repositório: bert apresentou erro na leitura de locs. Ele era o 40° repositório.
+
+O repositório: algorithms apresentou erro na leitura de locs. Ele era o 59° repositório.
+
+O repositório: reddit apresentou erro na leitura de locs. Ele era o 75° repositório.
+
+O repositório: pyspider apresentou erro na leitura de locs. Ele era o 81° repositório.
+
+O repositório: PySnooper apresentou erro na leitura de locs. Ele era o 89° repositório.
+
+O repositório: fastapi apresentou erro na leitura de locs. Ele era o 101° repositório.
+
+O repositório: dash apresentou erro na leitura de locs. Ele era o 108° repositório.
+
+O repositório: matplotlib apresentou erro na leitura de locs. Ele era o 110° repositório.
+
+O repositório: gensim apresentou erro na leitura de locs. Ele era o 124° repositório.
+
+O repositório: wttr.in apresentou erro na leitura de locs. Ele era o 132° repositório.
+
+O repositório: explainshell apresentou erro na leitura de locs. Ele era o 202° repositório.
+
+O repositório: XSStrike apresentou erro na leitura de locs. Ele era o 207° repositório.
+
+O repositório: DeDRM_tools apresentou erro na leitura de locs. Ele era o 227° repositório.
+
+O repositório: docopt apresentou erro na leitura de locs. Ele era o 239° repositório.
+
+O repositório: chinese-xinhua apresentou erro na leitura de locs. Ele era o 244° repositório.
+
+O repositório: TextBlob apresentou erro na leitura de locs. Ele era o 245° repositório.
+
+O repositório: pysc2 apresentou erro na leitura de locs. Ele era o 255° repositório.
+
+O repositório: dask apresentou erro na leitura de locs. Ele era o 272° repositório.
+
+O repositório: 30-seconds-of-python apresentou erro na leitura de locs. Ele era o 289° repositório.
+
+O repositório: tensorlayer apresentou erro na leitura de locs. Ele era o 316° repositório.
+
+O repositório: opensnitch apresentou erro na leitura de locs. Ele era o 381° repositório.
+
+O repositório: cnn-text-classification-tf apresentou erro na leitura de locs. Ele era o 393° repositório.
+
+O repositório: altair apresentou erro na leitura de locs. Ele era o 410° repositório.
+
+O repositório: docker-stacks apresentou erro na leitura de locs. Ele era o 425° repositório.
+
+O repositório: pkuseg-python apresentou erro na leitura de locs. Ele era o 444° repositório.
+
+O repositório: ImageAI apresentou erro na leitura de locs. Ele era o 451° repositório.
+
+O repositório: httpstat apresentou erro na leitura de locs. Ele era o 548° repositório.
+
+O repositório: MachineLearning apresentou erro na leitura de locs. Ele era o 609° repositório.
+
+O repositório: face-alignment apresentou erro na leitura de locs. Ele era o 617° repositório.
+
+O repositório: better-exceptions apresentou erro na leitura de locs. Ele era o 634° repositório.
+
+O repositório: gmvault apresentou erro na leitura de locs. Ele era o 721° repositório.
+
+O repositório: vaex apresentou erro na leitura de locs. Ele era o 725° repositório.
+
+O repositório: curio apresentou erro na leitura de locs. Ele era o 728° repositório.
+
+O repositório: me_cleaner apresentou erro na leitura de locs. Ele era o 732° repositório.
+
+O repositório: pyjwt apresentou erro na leitura de locs. Ele era o 744° repositório.
+
+O repositório: google-cloud-python apresentou erro na leitura de locs. Ele era o 747° repositório.
+
+O repositório: awesome-graph-classification apresentou erro na leitura de locs. Ele era o 752° repositório.
+
+O repositório: samplemod apresentou erro na leitura de locs. Ele era o 785° repositório.
+
+O repositório: pytorch-image-models apresentou erro na leitura de locs. Ele era o 790° repositório.
+
+O repositório: MITMf apresentou erro na leitura de locs. Ele era o 826° repositório.
+
+O repositório: django-filter apresentou erro na leitura de locs. Ele era o 828° repositório.
+
+O repositório: pipfile apresentou erro na leitura de locs. Ele era o 858° repositório.
+
+O repositório: activitywatch apresentou erro na leitura de locs. Ele era o 878° repositório.
+
+O repositório: tqdm apresentou erro na leitura de locs. Ele era o 899° repositório.
+
+O repositório: fast-rcnn apresentou erro na leitura de locs. Ele era o 909° repositório.
+
+O repositório: pylint apresentou erro na leitura de locs. Ele era o 936° repositório.
+
+O repositório: yolact apresentou erro na leitura de locs. Ele era o 948° repositório.
+
+O repositório: django-guardian apresentou erro na leitura de locs. Ele era o 996° repositório.
+
+Houveram, ao todo, 52 repositórios com erro em seu download e, consequentemente, 52 LOCs não contados.

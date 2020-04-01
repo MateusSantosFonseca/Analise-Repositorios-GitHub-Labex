@@ -4,6 +4,7 @@ from Fase_1.sprint2_fase1_script import sprint2_fase1
 from Fase_2.sprint2_fase2_script import sprint2_fase2
 from Util.downloader_e_contador_locs_repositorios import runScriptDownloaderContadorLocsRepositoriosMain
 from Util.exportador_lista_loc_csv import runExportadorListaLocCsvScriptMain
+from Util.verificador_repositorios import runVerificadorErrosLocRepositoriosScriptMain
 
 def mainScript():
     titulo = "Laboratório de Experimentação de Software - Sprint 2"
@@ -21,6 +22,7 @@ def mainScript():
         delegarChamadaFase(fase_escolhida)
         runScriptDownloaderContadorLocsRepositoriosMain(fase_escolhida)
         runExportadorListaLocCsvScriptMain(fase_escolhida)
+        runVerificadorErrosLocRepositoriosScriptMain(fase_escolhida)
 
 
 def switchFaseDaSprint(fase_escolhida_checkbox):

@@ -1,0 +1,3 @@
+Repositórios com erro:
+
+Houveram, ao todo, 0 repositórios com erro em seu download e, consequentemente, 0 LOCs não contados.
