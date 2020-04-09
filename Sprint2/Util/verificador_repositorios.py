@@ -24,7 +24,7 @@ def runVerificadorErrosLocRepositoriosScriptMain(fase_atual):
 
     try:
         repositoriosComErro = "Repositórios com erro:\n\n"
-        contadorRepos = 0
+        contadorRepos = -1
         contadorReposComErro = 0
         for loc in locs_list:
             contadorRepos += 1
@@ -32,7 +32,7 @@ def runVerificadorErrosLocRepositoriosScriptMain(fase_atual):
             if(locAtual == "0" or locAtual == "-1" or locAtual == "-2"):
                 contadorReposComErro += 1
                 repoAtual = urls_nomes_list[contadorRepos].split(',')[1].rstrip()
-                repositoriosComErro += "O repositório: " + repoAtual + " apresentou erro na leitura de locs. Ele era o " + str(contadorRepos) + "° repositório.\n\n"
+                repositoriosComErro += "O repositório: " + repoAtual + " apresentou erro na leitura de locs. Ele era o " + str(contadorRepos + 1) + "° repositório.\n\n"
         
         repositoriosComErro += "Houveram, ao todo, " + str(contadorReposComErro) + " repositórios com erro em seu download e, consequentemente, " + str(contadorReposComErro) + " LOCs não contados."
         exportarErrosLocParaTXT(pathErrosLocs, repositoriosComErro)
