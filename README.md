@@ -66,7 +66,7 @@ Ao final, na documentação, devem ser respondidas as seguintes questões (com d
 
 #### Execução dos scripts da Sprint 2:
 
-##### Obs.: As pastas estão divididas em fases, sendo no total 3 fases. (Apenas as 2 primeiras possuem scripts, a terceira última é uma análise realizada acerca dos dados obtidos nas fases anteriores)
+##### Obs.: As pastas estão divididas em fases, sendo no total 3 fases. (Apenas as 2 primeiras possuem scripts, a terceira e última é uma análise realizada acerca dos dados obtidos nas fases anteriores)
 
 Executar o script main.py, que é responsável por delegar a chamada correta dos scripts de acordo com a fase da Sprint escolhida no momento de execução.
 
